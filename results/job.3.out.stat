@@ -1,0 +1,1403 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.400841790025072E31
+Tree 0:
+ (* (- (- (+ x3 x1) (/ x1 x4)) (* (* x1 x3)
+     (* x3 x1))) (* (* (+ x3 x1) (* x2 x4)) (*
+     (/ x3 x3) (* x3 x2))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.400841790025714E31
+Tree 0:
+ (* (- (- (+ x3 x1) (/ (+ x3 x3) (+ x3 x3)))
+     (* (* x1 x3) (* x3 x1))) (* (* (+ x3 x1)
+     (* x2 x4)) (* (/ x3 x3) (* x3 x2))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.8500413909396507E24
+Tree 0:
+ (* (+ x4 (+ (/ (* (+ x3 x2) (* x4 x1)) (+
+     (* x1 x2) (- x3 x4))) (* (* (* x2 x3) (-
+     x3 x1)) (* (- x4 x1) (* x3 x2))))) x4)
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.8500413909396523E24
+Tree 0:
+ (* (+ x4 (+ (+ x3 x1) (* (* (* x2 x3) (-
+     x3 x1)) (* (- x4 x1) (* x3 x2))))) x4)
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.699465906558997E24
+Tree 0:
+ (* (+ (* x1 (- x4 x2)) (/ (- x1 x3) (+ x1
+     x2))) (- (- (* (/ (+ (/ x4 x3) (+ x2 x4))
+     (/ (+ x2 x2) (- x4 x1))) (/ (* (/ x1 x4)
+     (/ (+ x3 (* x4 x3)) x3)) (/ (* x2 x2) (+
+     x4 x4)))) (* (- (- (+ x4 x4) (* x3 x2)) (*
+     (- x1 x2) (- x4 x3))) (+ (+ (+ x4 x2) (+
+     x1 x4)) (* (* x4 x4) (* (- x4 x1) (/ x3 x3))))))
+     (/ (* x4 x4) (+ x4 x4))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.586215445398772E26
+Tree 0:
+ (* (- (* (* x3 x4) (* x4 x2)) (- (+ (- x1
+     (- x2 x1)) x2) (- x3 x3))) (- (* (* x4 x1)
+     (+ x4 x2)) (+ (/ x3 (+ x3 x3)) (+ x3 x1))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.735328556029997E24
+Tree 0:
+ (* (+ x4 (+ (* (- x1 x2) (- x4 x3)) (* (*
+     (* x2 x3) x3) (* (- x4 x1) (* x3 x2)))))
+     x4)
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.4058923800255144E33
+Tree 0:
+ (+ (/ (/ (- (- x1 x1) (* x3 x2)) (* (+ x1
+     x1) (* x1 x4))) (- (* (/ x1 (* x2 x2)) (/
+     x3 x2)) (+ (* (+ (/ x2 x1) (/ x2 x2)) x2)
+     (- x4 x2)))) (+ (+ (+ (/ x3 x4) (+ x1 x3))
+     (/ (+ x4 x3) (+ x4 x2))) (* (* (+ (/ x2 x2)
+     (* x4 x3)) (* x4 (- (* (/ (+ (/ x4 x3) (+
+     x2 x4)) (/ (+ x2 x2) (- x4 x1))) (/ (* (/
+     x1 x4) (/ (+ x2 (* x4 x3)) x3)) (/ (* x4
+     x2) (+ x4 x4)))) (* (- (- (+ x4 x4) (* x3
+     x2)) (* x4 x2)) (+ (+ (+ x4 x2) (+ x1 x4))
+     (* (* x4 x4) (* (- x4 x1) (/ x3 x3))))))))
+     (- x3 x2))))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.4058923800255144E33
+Tree 0:
+ (+ (/ (/ (- (- x1 x1) (* x3 x2)) (* (+ x1
+     x1) (* x1 x4))) (- (* (/ x1 (* x2 x2)) (/
+     x3 x2)) (/ x1 x4))) (+ (+ (+ (/ x3 x4) (+
+     x1 x3)) (/ (+ x4 x3) (+ x4 x2))) (* (* (+
+     (/ x2 x2) (* x4 x3)) (* x4 (- (* (/ (+ (/
+     x4 x3) (+ x2 x4)) (/ (+ x2 x2) (- x4 x1)))
+     (/ (* (/ x1 x4) (/ (+ x2 (* x4 x3)) x3))
+         (/ (* x4 x2) (+ x4 x4)))) (* (- (- (+ x4
+     x4) (* x3 x2)) (* x4 x2)) (+ (+ (+ x4 x2)
+     (+ x1 x4)) (* (* x4 x4) (* (- x4 x1) (/ x3
+     x3)))))))) (- x3 x2))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.370418825215255E25
+Tree 0:
+ (+ (+ (+ x1 x3) (* (+ x4 x1) x1)) (* (+ (*
+     (* (* x4 (- (/ x3 x1) (- (+ x2 (+ x4 (- x1
+         x1))) x4))) (- (* (+ x3 x1) (- x4 x2)) (+
+         (+ x3 x3) (* x1 x2)))) x2) (- (- (/ (/ x1
+     x4) (+ (/ (* x2 x1) (- x3 x4)) (/ (* x4 x3)
+     (- x1 x4)))) (- (+ (* x1 x2) (+ (* x2 x2)
+     (* x2 (- x2 x3)))) (* x4 x3))) (/ x2 x3)))
+     (* x1 x4)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.4599626901913154E28
+Tree 0:
+ (- (* x1 (* (/ (* (* x4 x3) (* x1 x2)) (/
+     x2 (* x1 x2))) (- (- (* (+ (- x4 x2) (/ x3
+     x4)) x3) (* x4 x1)) (/ x4 x4)))) x3)
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 9.698319252601729E25
+Tree 0:
+ (+ (+ (+ x1 x3) (* x1 x1)) (* (+ (* (* (*
+     x4 (- (/ x3 x1) (- (+ x2 (+ x4 (- x1 x1)))
+     x4))) (- (- x3 x4) (+ (+ x3 x3) (* x1 x2))))
+     x2) (- (- (/ (/ x1 x4) (+ (/ (* x2 x1) (-
+     x3 x4)) (/ (* x4 x3) (- x1 x4)))) (- (+ (*
+     x1 x2) (+ (* x2 x2) (* x2 (- x2 x3)))) (*
+     x4 x3))) (/ x2 x3))) (* x1 x4)))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.54937926514368E26
+Tree 0:
+ (+ (+ (+ x1 x3) (* x1 x1)) (* (+ (* (* (*
+     x4 (- (/ x3 x1) (- (+ x2 (+ x4 (- x1 x1)))
+     x4))) (- (- x3 x4) (+ (* x2 x4) (* x1 x2))))
+     x2) (- (- (/ (/ x1 x4) (+ (/ (* x2 x1) (-
+     x3 x4)) (/ (* x4 x3) (- x1 x4)))) (- (+ (*
+     x1 x2) (+ (* x2 x2) (* x2 (- x2 x3)))) (*
+     x4 x3))) (/ x2 x3))) (* x1 x4)))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.549379265101654E26
+Tree 0:
+ (+ (+ (+ x1 x3) (* x1 x1)) (* (+ (* (* (*
+     x4 (- (/ x3 x1) (- (+ x2 (+ x4 (- x1 x1)))
+     x4))) (- (- x3 x4) (+ (* x2 x4) (* x1 x2))))
+     x2) (- (- (/ (/ x1 x4) (+ (/ (* x2 x1) (-
+     x3 x4)) (/ (* x4 x3) (- x1 x4)))) (- (+ (*
+     x2 x2) (+ (* x2 x2) (* x2 (- x2 x3)))) (*
+     x4 x3))) (/ x2 x3))) (* x1 x4)))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.7742348525061806E25
+Tree 0:
+ (+ (+ (+ x1 x3) (* x1 x1)) (* (+ (* (* (*
+     x4 (+ (- (/ (+ (+ x2 x2) (+ x3 x1)) x1) (+
+     x3 x1)) x2)) (- (- x3 x4) (+ x4 (* x1 x2))))
+     x2) (- (- (/ (/ x1 x4) (+ (/ (* x2 x1) (-
+     x3 x4)) (/ (* x4 x3) (- x1 x4)))) (- (+ (*
+     x1 x2) (+ (* x2 x2) (* x2 (- x2 x3)))) (*
+     x4 x3))) (/ x2 x3))) (* x1 x4)))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.25680426071385E28
+Tree 0:
+ (* x3 (* (* x1 (+ (+ (* (* x3 (+ (+ x4 x2)
+     x1)) (- (+ (* x2 (* x4 x4)) x4) (+ x2 x3)))
+     x1) (+ (/ x3 x4) (* x4 x1)))) x3))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.0916376594942787E25
+Tree 0:
+ (* (/ (+ x3 (* x3 (* (* x1 (* x4 x1)) x3)))
+     x3) (- (* x3 (* x1 x2)) (* (* x3 (+ (+ x4
+     x2) x1)) (- x3 (+ x2 x3)))))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.7924753012258373E25
+Tree 0:
+ (* (/ (+ x3 (* x3 (* (* x1 (* x4 x1)) x3)))
+     x3) (- (+ x4 x4) (* (* x3 (+ (+ x4 x2) x1))
+     (- x3 (+ x2 x3)))))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.0773076303731846E26
+Tree 0:
+ (* (- (* x4 x3) (+ (+ (* (* (* x4 (- (/ x3
+     x1) (- (* (+ x4 x2) x1) x4))) (- (- x3 x4)
+     (+ (* x2 x4) (/ (* (- x2 x3) x3) x3)))) x2)
+     (- (/ x3 x4) (/ x2 x3))) x4)) x1)
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.941173853435249E22
+Tree 0:
+ (+ x4 (+ (- (+ x3 (- (* x4 x3) (+ (+ (* (*
+     (* x4 (* x3 x3)) (- (- x3 x4) (+ (* x2 x4)
+     (* x1 x2)))) x2) (- (- (/ (- (/ x4 x1) x3)
+     (+ (/ (* x2 x1) (- x3 x4)) (/ (* x4 x3) (-
+         x1 x4)))) (- x1 x1)) (/ x2 x3))) x4))) x3)
+     (+ x3 x1)))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.941173853435249E22
+Tree 0:
+ (- (- (- x3 x2) (- x3 x3)) (- (+ x3 (- (*
+     x4 x3) (+ (+ (* (* (* x4 (* x3 x3)) (- (-
+     x3 x4) (+ (* x2 x4) (* x1 x2)))) x2) (- (-
+     (/ (+ (- (- (/ x3 x2) x1) x3) (- x1 x1))
+         (+ (/ (* x2 x1) (- x3 x4)) (/ (* x4 x3) (-
+             x1 x4)))) (- (/ x3 x4) x1)) (/ x2 x3))) x4)))
+     x3))
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.941173853435249E22
+Tree 0:
+ (- (- (- x3 x2) (- x3 x3)) (- (+ x3 (- (*
+     x4 x3) (+ (+ (* (* (* x4 (* x3 x3)) (- (-
+     x3 x4) (+ (* x2 x4) (* x1 x2)))) x2) (- (-
+     (/ (+ (- (- (/ x3 x2) x1) x3) (- x1 x1))
+         (+ (/ (* x2 x1) (- x3 x4)) (+ x2 x1))) (-
+     (/ x3 x4) x1)) (/ x2 x3))) x4))) x3))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.101260114911701E27
+Tree 0:
+ (+ (/ (* (+ x2 (* (* x4 x3) (+ (/ x3 x4)
+     (+ x1 x3)))) (+ x2 (- (+ (* (- (* x4 x3)
+     (/ x2 x3)) (* (+ x2 x3) x3)) x3) x3))) (/
+     (- x4 x3) (* x3 x1))) (+ (* (* x4 x3) (/
+     (* x4 x3) (+ (- x4 x4) x2))) x1))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.1832473688537045E32
+Tree 0:
+ (* (* (* x3 x2) x3) (* (+ (* x3 x2) (* (*
+     x1 x4) (/ x2 x4))) (* (- x3 x2) (* (+ (*
+     x3 x2) (* (* x1 x4) (/ x2 x4))) (+ (/ x3
+     (- (- x2 x2) x2)) x2)))))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.1879883878755965E32
+Tree 0:
+ (* (* (* x3 x2) x3) (* (+ (* x3 x2) (* (*
+     x1 x4) (/ x2 x4))) (* (+ x3 x1) (* (+ (*
+     x3 x2) (* (* x1 x4) (/ x2 x4))) (+ (/ x3
+     (- (- x2 x2) x2)) x2)))))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.9410571421044535E22
+Tree 0:
+ (- (- (- x3 x2) (- x3 x3)) (- (+ x3 (- (*
+     x4 x3) (+ (+ (* (* (* x4 (* x3 x3)) (- (-
+     (- x2 x1) x4) (+ (* x2 x4) (* x1 x2)))) x2)
+     (- (- (/ (+ (- (* x1 x1) x3) (- x1 x1)) (+
+         (/ (* x2 x1) (- x3 (+ x4 x3))) (/ (* x4 x3)
+         (- x1 x4)))) (* x1 (- x3 (/ x2 x3)))) (/
+         x2 x3))) x4))) x3))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.941057142104454E22
+Tree 0:
+ (- (- (- x3 x2) (- x3 x3)) (- (+ x3 (- (*
+     x4 x3) (+ (+ (* (* (* x4 (* x3 x3)) (- (-
+     (- x2 x1) x4) (+ (* x2 x4) (* x1 x2)))) x2)
+     (- (- (/ (+ (- (* x1 x1) x3) (- x1 x1)) (+
+         (/ (* x2 x1) (- x3 (+ x4 x3))) (/ (* x4 x3)
+         x2))) (* x1 (- x3 (/ x2 x3)))) (/ x2 x3)))
+     x4))) x3))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.9410571421044544E22
+Tree 0:
+ (- (- (- x3 x2) (- x3 x3)) (- (+ x3 (- (*
+     x4 x3) (+ (+ (* (* (* x4 (* x3 x3)) (- (-
+     (- x2 x1) x4) (+ (* x2 x4) (* x1 x2)))) x2)
+     (- (- (/ (+ (- (* x1 x1) x3) (* x2 (* (/
+         x4 x3) x4))) (+ (/ (* x2 x1) (- x3 (+ x4
+         x3))) (/ x2 x3))) (* x1 (- x3 (/ x2 x3))))
+         (/ x2 x3))) x4))) x3))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.652117301571344E24
+Tree 0:
+ (+ (* (* (+ (* x1 x2) x3) (* x2 x3)) (* x3
+     (* x4 x3))) x3)
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.9410571421044686E22
+Tree 0:
+ (- (- (- x3 x2) (- x3 x3)) (- (+ x3 (- (*
+     x4 x3) (+ (+ (* (* (* x4 (* x3 x3)) (- (-
+     (- x2 x1) x4) (+ (* x2 x4) (* x1 x2)))) x2)
+     (- (- (/ (+ (- (* x1 x1) x3) (- x1 x1)) (+
+         (/ (* x2 x1) (* (* x3 x4) x2)) (/ x2 x3)))
+         (* x1 (- x3 (/ x3 x3)))) (* x3 x1))) x4)))
+     x3))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.6480148958198287E24
+Tree 0:
+ (* (* (* (* x1 x3) (/ x2 x1)) (- x2 (* x1
+     x4))) (+ (* x2 (* x3 x3)) (+ x1 x1)))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.992843793030545E28
+Tree 0:
+ (+ (* (* (+ (- (+ x3 x3) x4) x3) x4) (- (*
+     (/ x4 (- x2 x2)) (- (* x4 x3) (+ (+ (* (*
+     (* x4 (* x3 x3)) (- (- (- x2 x1) x4) (+ (*
+     x2 x4) (* x1 x2)))) x2) (- (- (/ (+ (- (*
+     x1 x1) x3) (- x1 x1)) (+ (/ (* x2 x1) (*
+     (* x3 x4) x2)) (/ x2 x3))) (/ x4 x3)) (*
+     x3 x1))) x4))) (- x4 (* (/ x4 x2) x3))))
+     (+ x2 x1))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.992843793030573E28
+Tree 0:
+ (+ (* (* (+ (- (+ x3 x3) x4) x3) x4) (- (*
+     (/ x4 (- x2 x2)) (- (* x4 x3) (+ (+ (* (*
+     (* x4 (* x3 x3)) (- (- (- x2 x1) x4) (+ (*
+     x2 x4) (* x1 x2)))) x2) (- (+ (/ (- x1 x4)
+     (+ x1 x4)) x1) (* x3 x1))) x4))) (- x4 (*
+     (/ x4 x2) x3)))) (+ x2 x1))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.992843793030573E28
+Tree 0:
+ (+ (* (* (+ (- (+ x3 x3) x4) x3) x4) (- (*
+     (/ x4 (- x2 x2)) (- (* x4 x3) (+ (+ (* (*
+     (* x4 (* x3 x3)) (- (- (- x2 x1) x4) (+ (*
+     x2 x4) (* x1 x2)))) x2) (- (+ (/ (- x1 x4)
+     (+ x1 x4)) x1) (* x3 x1))) x4))) (- x4 (*
+     (/ x4 x2) x3)))) (+ x2 (* x3 (- x1 x4))))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.72863293760834E28
+Tree 0:
+ (+ (* (* (+ (- (+ x3 x3) x4) x3) x4) (- (*
+     (/ x4 (- x2 x2)) (- (* x4 x3) (+ (+ (* (*
+     (* x4 (* x3 x3)) (- (- (- x2 x1) x4) (+ (*
+     x3 x2) (* x1 x2)))) x2) (- (+ (/ (- x1 x4)
+     (+ x1 x4)) x1) (* x3 x1))) x4))) (- x4 (/
+     x4 x3)))) (+ x2 x1))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.0093538245785886E28
+Tree 0:
+ (+ (* (* (+ (- (+ x3 x3) x4) x3) x4) (- (*
+     (/ x4 (- x2 x2)) (- (* x4 x3) (+ (+ (* (*
+     (* x4 (* x3 x3)) (- (- (* x3 (+ (+ x1 x4)
+     (/ x1 x4))) (- (- (/ x1 x3) (- x3 x2)) x2))
+     (+ (* x3 x2) (* x1 x2)))) x2) (- (+ (/ (-
+     x1 x4) (+ x1 x4)) x1) (* x3 x1))) x4))) (-
+     x4 (/ x4 x3)))) (+ x2 x1))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.961934339491783E28
+Tree 0:
+ (+ (* (* (+ (- (* x3 x2) x4) x3) x4) (- (*
+     (/ x4 (- x2 x2)) (- (* x4 x3) (+ (+ (* (*
+     (* x4 (* x3 x3)) (- (- (- x2 x1) x4) (+ x3
+     x1))) x2) (- (+ (/ (- x1 x4) (+ x1 x4)) x1)
+     (* x3 x1))) x4))) (- x4 (/ x4 x3)))) (+ x2
+     x1))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.4065287727937639E28
+Tree 0:
+ (+ (* (* (+ (- (+ x3 x3) x4) x3) (* x4 x1))
+     (- (* (/ x4 (- x2 x2)) (- (* x4 x3) (+ (+
+         (* (* (* x4 (* x3 x3)) (- (- (- x2 x1) x4)
+             x3)) x2) (- (+ (/ (- x1 x4) (+ x1 x4)) x1)
+         (/ (+ (+ x3 (/ x4 x4)) x4) (- x1 x4)))) x4)))
+         (- x4 (/ x4 x3)))) (+ x2 x1))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.1396641672593708E32
+Tree 0:
+ (+ (* (* (+ (- (+ x3 x3) x4) x3) (* x4 x1))
+     (- (* (/ x4 (- x2 x2)) (- (* x4 x3) (+ (+
+         (* (* (* x4 (- x2 (* (* x4 (- x1 x4)) (-
+             x1 (- (+ x1 x2) x3))))) (- (- (- x2 x1) x4)
+             x3)) x2) (- (+ (/ (- x1 x4) (+ x1 x4)) x1)
+         (/ (+ (+ x3 (/ x4 x4)) x4) (- x1 x4)))) x4)))
+         (- x4 (/ x4 x3)))) (+ x2 x1))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.134243515930254E35
+Tree 0:
+ (+ (* (* (+ (- (+ x3 x3) x4) x3) (* x4 x1))
+     (- (* (- x1 x4) (- (* x4 x3) (+ (+ (* (*
+         (* x4 (- x2 (* (* x4 (- x1 x4)) (- x1 (-
+             (+ x1 x2) x3))))) (- (- (- x2 x1) x4) x3))
+         x2) (- (+ (/ (- x1 x4) (+ x1 x4)) x1) (/
+         (+ (+ x3 (/ x4 x4)) x4) (- x1 x4)))) x4)))
+         (- x4 (/ x4 x3)))) (+ x2 x1))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 9.983582488971446E21
+Tree 0:
+ (+ (* (* (+ (- (+ x3 x3) x4) x3) x4) (- (*
+     (- (/ (* x2 (- (- x2 x4) (* x4 x3))) x3)
+         x2) (- (* x3 x3) (+ (+ (- x1 x4) (- (- x1
+     x3) (* x3 x1))) x4))) (- x4 (/ (+ x3 x2)
+     x3)))) (+ x2 x1))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.876623379903719E29
+Tree 0:
+ (- (- (+ (* (* (* x2 x4) (- (- x4 x2) (*
+     (+ x3 (- x2 (* (* x3 x2) x1))) (+ (* x1 x4)
+     (+ (* x2 x4) x3))))) x2) x4) (- x3 x3)) (-
+     x1 x3))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.000860086086582E21
+Tree 0:
+ (+ (* (* (+ (- (+ x3 x3) x4) x3) x4) (- (*
+     (- (/ (* x2 (- (- x2 x4) (* x4 x3))) x3)
+         x2) (- (* x3 x3) (/ x3 x3))) (- x4 (+ (/
+     x4 x1) (/ x4 x3))))) (+ x2 x1))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.308040284785181E19
+Tree 0:
+ (* (- (+ x4 (/ x3 x3)) (- (+ x3 (* x4 (*
+     (+ (- (/ x2 x3) x4) (- x3 x2)) x3))) x3))
+     (+ (+ x1 (/ x3 x1)) (* x4 x1)))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.0041647690715556E18
+Tree 0:
+ (* (- (+ x4 (/ x3 x3)) (- (+ x3 (* x4 (*
+     (+ (- (/ x2 x3) x4) (+ x3 (+ (+ x1 x1) (-
+         x3 x2)))) x3))) x3)) (+ (+ x1 (/ x3 x1))
+     (* x4 x1)))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.0046622385196349E18
+Tree 0:
+ (* (- (+ x4 (/ x3 x3)) (- (+ x3 (* x4 (*
+     (+ (- (/ x2 x3) x4) (+ x3 (+ (+ x1 x1) (-
+         x3 x2)))) x3))) x3)) (+ (+ x1 (- x1 x3))
+     (* x4 x1)))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.529014358730796E21
+Tree 0:
+ (* x2 (* x3 (* (+ (* x4 (* (- x4 x1) x1))
+     (- x1 (/ (/ x1 x4) (* x4 (* x4 x2))))) (-
+     (+ x1 x3) (+ x3 x2)))))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 8.0473346551538371E18
+Tree 0:
+ (* (- (+ x4 (/ x3 x3)) (- (+ x3 (* x4 (*
+     (+ (- (- x1 x4) x4) (+ x3 (- (- x1 (/ (-
+         x3 x2) x4)) (/ x3 x1)))) x3))) x3)) (+ (+
+     x1 (/ x3 x1)) (* x4 x1)))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.9924744237597115E24
+Tree 0:
+ (* x2 (* x3 (* (+ (* x4 x1) (- x1 (/ (/ x1
+     x4) (* x4 (- (+ (- (/ x2 x3) x3) x4) x1)))))
+     (- (- (* x1 (* x3 x1)) x3) (+ x3 x2)))))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 8.8749765240350566E17
+Tree 0:
+ (* x2 (* x3 (* (+ (* x4 x1) (- x1 (+ x1 x3)))
+     (- (- x1 x3) (+ (- x3 x2) x2)))))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.0549214524386247E19
+Tree 0:
+ (* (* x1 (- (/ x3 x4) (- (- (* (- (* x4 x2)
+     x4) x1) x3) (+ (/ x1 x3) x4)))) x4)
+
+Generation: 51
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.0549214524386247E19
+Tree 0:
+ (* (* x1 (- (/ x3 x4) (- (- (* (- (* x4 x2)
+     x4) x1) x3) (+ (/ x1 x3) x4)))) x4)
+
+Generation: 52
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 6.6347610314841254E17
+Tree 0:
+ (- (- x4 x1) (* (- (- (/ x3 x1) (- (/ (/
+     x4 x4) (* x4 (/ (* x2 x1) x2))) x3)) (/ x3
+     (+ x2 x2))) (+ (/ x4 (+ (- (- x2 x4) (+ (*
+     x1 x1) x4)) (+ x3 x1))) (* (- (+ (+ x4 (-
+     x2 (- (* x3 x1) (* (- (* x2 x3) x3) x1))))
+     (- x2 x4)) (/ x1 x2)) x1))))
+
+Generation: 53
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.847991913166293E18
+Tree 0:
+ (- (* (* x2 (- (* (- x4 x1) (- (- x2 x4)
+     (* x2 x3))) x2)) x1) (+ x4 x1))
+
+Generation: 54
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.4375100681657627E20
+Tree 0:
+ (* (* x1 x1) (- (* x4 (* (* (- x1 x3) (-
+     x4 x2)) x1)) (/ (+ x2 x3) (- x1 x4))))
+
+Generation: 55
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.2336825316758266E22
+Tree 0:
+ (+ x3 (+ (- (* x2 (- (* (* x1 x2) (- (* (/
+     x2 (/ (/ x1 x3) x3)) x4) (+ (- (+ x2 x2)
+     x3) x4))) x2)) (* x1 x2)) (+ x3 (- x3 x2))))
+
+Generation: 56
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.0904343991185727E22
+Tree 0:
+ (- (* (* (- x2 x3) (* (/ (+ (* x1 (* (+ x4
+     x4) x1)) x1) x3) (* x1 x1))) x1) x2)
+
+Generation: 57
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.867580245778574E24
+Tree 0:
+ (- (- (* (- (* (- (* x4 x2) (- (* x1 (* x1
+     (* (* x2 x1) x1))) x3)) x2) x4) x1) x3) (/
+     x4 x3))
+
+Generation: 58
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.917670463405633E24
+Tree 0:
+ (- x1 (* x3 (+ (- x2 x3) (- x1 (+ (- (- (/
+     x2 (* (+ x1 x4) x2)) (+ x1 (- (* (- (* x4
+     x2) (- (* x1 (* x1 (* (* x2 x1) x1))) x3))
+     x2) x4))) x4) (* x3 x2))))))
+
+Generation: 59
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.221690743225143E25
+Tree 0:
+ (+ x3 (* x3 (* (* (- x2 x1) (- x2 (+ x2 (*
+     (* (/ x4 x4) x1) x4)))) (* x4 (* x2 x4)))))
+
+Generation: 60
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.6912667412224867E25
+Tree 0:
+ (+ x3 (* x3 (* (* (- x2 x1) (- x2 (+ x2 (*
+     x1 x2)))) (* x4 (* x2 x4)))))
+
+Generation: 61
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.399439026725319E25
+Tree 0:
+ (+ x3 (* x3 (* (* (- (+ x4 x3) x3) (- x2
+     (+ x2 (* x1 x2)))) (* x4 (* x2 x4)))))
+
+Generation: 62
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.224898570876035E25
+Tree 0:
+ (* x3 (* (* (- x2 x1) (- x2 (- x3 (+ x1 (*
+     x1 x4))))) (* x4 (* x2 x4))))
+
+Generation: 63
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.1255050490253212E23
+Tree 0:
+ (- x3 (+ (/ x1 x4) (* x3 (* (* (+ x2 x2)
+     (- x2 (+ x2 x4))) (* x4 (* x2 x4))))))
+
+Generation: 64
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.221690743225175E25
+Tree 0:
+ (+ (- (+ x2 x4) x2) (+ (- (- (+ x1 (* x2
+     (* x3 x3))) (- (* x4 x2) (* x1 (* x3 (* (*
+     (- x2 x1) (- x2 (+ x2 x4))) (* x4 (* x2 x4)))))))
+     (* x3 (- (* x4 x1) (- x3 (/ x1 x3))))) (+
+     x3 (- x4 x2))))
+
+Generation: 65
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.221690743225175E25
+Tree 0:
+ (- (- (- (+ x1 (* x2 (* x3 x3))) (- (* x4
+     x2) (* x1 (* x3 (* (* (- x2 x1) (- x2 (+
+     x2 x4))) (* x4 (* x2 x4))))))) (* x3 (- (*
+     x4 x1) (- x3 (/ x1 x3))))) x3)
+
+Generation: 66
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.1242859016062666E26
+Tree 0:
+ (- (* (* x3 (* (* (- x2 x1) (- x2 (+ x2 x4)))
+     (* x4 (* x2 x4)))) x4) x3)
+
+Generation: 67
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.01440606191272E25
+Tree 0:
+ (+ x3 (* x3 (* (- (* x1 (- x1 (+ x2 x2)))
+     x3) (+ (- (+ x3 x1) (- x1 (* (+ (* x3 (+
+     x4 x1)) (+ x2 x4)) (* x2 x4)))) (/ x1 x3)))))
+
+Generation: 68
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.952295396945721E26
+Tree 0:
+ (* (* (- (+ x1 (* x4 x4)) (- x3 x4)) (- x2
+     (+ x2 (* x1 x2)))) (* x4 (* x4 x2)))
+
+Generation: 69
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.5542195550800734E25
+Tree 0:
+ (+ x3 (* x3 (* (+ x2 (* x2 x1)) (+ (- (+
+     x3 x1) (- x1 (* (+ (* x3 (+ x4 x1)) x3) (*
+     x2 x4)))) (/ x1 x3)))))
+
+Generation: 70
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.552730264809649E25
+Tree 0:
+ (+ (- (/ x2 x1) (- (* (- (+ x3 x1) (- x1
+     (* (+ (* x3 (* (+ (* (/ x2 x4) (- x2 (+ x1
+         x4))) (/ (- x3 x2) x4)) x2)) (+ x2 x4)) (*
+         x2 x4)))) (* x2 x4)) x4)) (- (- (+ x2 x4)
+     (+ x1 (/ (- (* (- x4 x1) (- x2 x1)) x2) x2)))
+     x4))
+
+Generation: 71
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.1008231050455937E28
+Tree 0:
+ (* (* (+ x2 x4) x4) (+ x2 (- (* x1 (- x1
+     (* x3 (* x3 (* (* x3 x2) x2))))) x3)))
+
+Generation: 72
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.2265066848516783E38
+Tree 0:
+ (* x3 (* (- (* (* (+ x2 x4) x4) (+ x2 (-
+     (* x1 (- x1 (* x3 (* x3 (* (* x3 x2) x2)))))
+     x3))) (* x1 x2)) (* x1 x2)))
+
+Generation: 73
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.9070183744850076E41
+Tree 0:
+ (* x3 (* (- (* (* (* (+ x1 x4) x2) x4) (+
+     x2 (- (* x1 (- x1 (* x3 (* x3 (* (* x3 x2)
+     x2))))) x3))) (* x1 x2)) (* x1 x2)))
+
+Generation: 74
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.9070183744850076E41
+Tree 0:
+ (* x3 (* (- (* (* (* (+ x1 x4) x2) x4) (+
+     x2 (- (* x1 (- x1 (* x3 (* x3 (* (* x3 x2)
+     x2))))) x3))) (* x1 x2)) (* x1 x2)))
+
+Generation: 75
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.165560519321271E31
+Tree 0:
+ (- (* (* (* (+ x1 x4) x2) x4) (+ x2 (- (*
+     x1 (- x1 (* x3 (* x3 (* (* x3 x2) x2)))))
+     x3))) (* x1 x2))
+
+Generation: 76
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.165560519321271E31
+Tree 0:
+ (- (* (* (* (+ x1 x4) x2) x4) (+ x2 (- (*
+     x1 (- x1 (* x3 (* x3 (* (* x3 x2) x2)))))
+     x3))) (* (/ x1 (/ x4 x2)) x2))
+
+Generation: 77
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 9.074004042755592E28
+Tree 0:
+ (- (* (* (* (+ x1 x4) x2) x4) (+ x2 (- (*
+     x1 (- x1 (* x3 (* x3 (- x2 (* x4 x2))))))
+     x3))) (* (/ x1 (/ x4 x2)) x2))
+
+Generation: 78
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 9.074004042755592E28
+Tree 0:
+ (- (* (* (* (+ x1 x4) x2) x4) (+ x2 (- (*
+     x1 (- x1 (* x3 (* x3 (- x2 (* x4 x2))))))
+     x3))) (* (/ x1 (+ (* (/ (+ x1 x3) (* x1 x1))
+     (+ (* x1 x3) x4)) x2)) x2))
+
+Generation: 79
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.853343555666811E28
+Tree 0:
+ (* (- (* x3 (* x3 (* (* x3 x2) x2))) x3)
+     (+ (+ x4 x2) (- (* (+ (+ x3 x3) (- (* x4
+         x4) (- x1 x2))) x2) x3)))
+
+Generation: 80
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.935255453370283E21
+Tree 0:
+ (* (* x1 (+ (/ x2 x2) (/ x3 (/ (+ x2 x1)
+     (* (* x2 x1) (* x2 x4)))))) (+ x2 x1))
+
+Generation: 81
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 8.472430546027807E25
+Tree 0:
+ (* (- (/ x4 (* x3 x2)) (- x3 (* (* x4 (*
+     x4 (* x2 x1))) (* x2 (/ x2 (/ x4 x2))))))
+     x1)
+
+Generation: 82
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.2563079988383622E26
+Tree 0:
+ (* x4 (* (* x4 (* x4 (* x2 x1))) (* x2 (/
+     x2 (/ x4 x2)))))
+
+Generation: 83
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.3204765395847E26
+Tree 0:
+ (* (+ x2 x3) (+ (- (* (* x4 x2) (* x4 (*
+     x4 (* x2 x1)))) (/ x1 (* x3 (+ x1 (/ x4 x3)))))
+     x1))
+
+Generation: 84
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.435319987613826E29
+Tree 0:
+ (* (* (+ x2 x3) (+ (- (* (* x4 x2) (* x4
+     (* x4 (* x2 x1)))) (/ x1 (* x3 (+ x1 (/ x4
+     x3))))) x1)) x1)
+
+Generation: 85
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.3204765395847E26
+Tree 0:
+ (* (+ x2 x3) (+ (- (* (* x4 x2) (* x4 (*
+     x4 (* x2 x1)))) (/ x1 (* x3 (+ x1 (/ x4 x3)))))
+     (+ x1 (- x3 x2))))
+
+Generation: 86
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.6290627306688604E22
+Tree 0:
+ (* (+ x2 x3) (+ (- (* (* x4 x2) (* x4 (*
+     x4 (- x4 x2)))) (/ x1 (* x3 (+ x1 (/ x4 x3)))))
+     (+ x1 (- x3 x2))))
+
+Generation: 87
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.043786420607046E21
+Tree 0:
+ (* (/ x3 (/ (/ (+ x4 x4) x1) (/ x4 x1)))
+     (+ (- (* (* x4 x2) (* x4 (* x4 (- x4 x2))))
+         (/ x1 (* x3 (+ x1 (/ x4 x3))))) (+ x1 (-
+         x3 x2))))
+
+Generation: 88
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 8.573975007368269E19
+Tree 0:
+ (* (- (* (* x4 x2) (* x2 x2)) (/ x1 (* x3
+     (+ x1 (/ x4 x3))))) (+ (- x4 x1) (- (+ x4
+     x2) x4)))
+
+Generation: 89
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.8491964546671876E22
+Tree 0:
+ (* (- (* (* x2 x1) (* (+ x3 (+ (* x3 x2)
+     x1)) x4)) x3) x2)
+
+Generation: 90
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.4031068989788445E23
+Tree 0:
+ (- x3 (* (/ x4 (/ (/ x3 x2) (* (+ x3 (* x2
+     x1)) (/ (* (+ (* x4 x4) x3) x2) x3)))) x1))
+
+Generation: 91
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.404733110898793E23
+Tree 0:
+ (/ x4 (/ (/ x3 x2) (* (+ x3 (+ (- x4 x1)
+     (- (- (+ x4 (* (- (- x3 x4) (* x1 x2)) (*
+         x2 x4))) x4) (/ (/ x3 x4) x3)))) (/ (* x4
+     x1) x3))))
+
+Generation: 92
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.6319780264555244E24
+Tree 0:
+ (* (* x4 (+ (* x4 x1) x3)) (* x2 (+ (+ (*
+     (- (- x1 (/ x4 x1)) x3) (* x3 x3)) x3) (/
+     x1 x3))))
+
+Generation: 93
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.2563074986755276E26
+Tree 0:
+ (- x2 (+ (* (* (* (* x2 x2) x2) x4) (- (*
+     (* x2 x4) x1) x2)) (- (/ x4 x4) (- x4 x4))))
+
+Generation: 94
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.2563074986755276E26
+Tree 0:
+ (* x4 (+ x4 (/ (+ (* (* (* (* x2 x2) x2)
+     x4) (- (* (* x2 x4) x1) x2)) (- (/ x4 x4)
+     (- x4 x4))) x4)))
+
+Generation: 95
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.3899550465768805E25
+Tree 0:
+ (- x2 (+ (* (* (* (- (- (* x4 x3) x2) x3)
+     x2) x4) (- (* (* x2 x4) x1) x2)) (- (/ x4
+     (* (/ x4 x4) (+ x3 (+ x3 x3)))) (- x4 x4))))
+
+Generation: 96
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.3899550465768805E25
+Tree 0:
+ (* (* (* (- (- (* x4 x3) x2) x3) x2) x4)
+     (- (* (* x2 x4) x1) x2))
+
+Generation: 97
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.706534949081141E22
+Tree 0:
+ (+ x3 (+ x1 (* (* (* (- (* (/ x4 (+ x2 x2))
+     x4) x3) x2) x4) (- (* (* x2 x4) x1) x2))))
+
+Generation: 98
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.272775054180658E35
+Tree 0:
+ (* (* (* x2 (* (* (* (- (* (/ x4 (+ x2 x2))
+     x4) x3) x2) x4) (- (* (* x2 x4) x1) x2)))
+     (* x3 (+ x1 x1))) x4)
+
+Generation: 99
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.216540164339752E22
+Tree 0:
+ (* (- x3 (* (+ (* (- (* x2 x3) (* x2 x4))
+     x3) x4) x4)) (* x4 x2))
+
+Generation: 100
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.706534949081141E22
+Tree 0:
+ (+ (+ x3 (+ x1 (* (* (* (- (* (/ x4 (+ x2
+     x2)) x4) x3) x2) x4) (- (* (* x2 x4) x1)
+     x2)))) (+ x2 x2))
+
+Generation: 101
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.605203015336267E19
+Tree 0:
+ (* (* (- (- (- x3 x2) x3) x4) x4) (+ x1 (*
+     x2 (* x2 x1))))
+
+Generation: 102
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.301583434463746E19
+Tree 0:
+ (* (* x2 (+ (+ (* x1 (+ x1 x2)) x3) (* x2
+     x4))) (* x2 x1))
+
+Generation: 103
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.301583434463746E19
+Tree 0:
+ (* (* x2 (+ (+ (* x1 (+ x1 x2)) x3) (* x2
+     x4))) (* x2 x1))
+
+Generation: 104
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.1460463976112159E24
+Tree 0:
+ (* (- (+ (+ (* (* (* x3 x3) x3) (* x3 x3))
+     x3) (+ x2 x3)) (+ (* x1 x2) x3)) (+ (* (+
+     x2 x3) x4) x2))
+
+Generation: 105
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 9.4982060634052365E17
+Tree 0:
+ (+ (- x2 (* x2 (/ x3 x4))) (+ (* (* x1 (*
+     (+ (+ x2 x4) (/ x3 x4)) x3)) (* x3 x3)) x3))
+
+Generation: 106
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.83122232707396E19
+Tree 0:
+ (+ x3 (+ (+ (* (* (* x1 (* (* x1 (/ x2 x1))
+     (+ x1 x4))) (+ x1 x2)) x4) (+ x4 x2)) (-
+     (/ (* x1 x1) x3) x3)))
+
+Generation: 107
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.831222327073811E19
+Tree 0:
+ (+ (- (- x2 (+ (* (* (* x1 (* (* x1 (/ x2
+     x1)) (+ x1 x4))) (+ x1 x2)) x4) (+ x4 x2)))
+     x2) x4)
+
+Generation: 108
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.895160845201364E23
+Tree 0:
+ (+ (- (- x2 (+ (* (* (* x1 (* (- x4 (+ x3
+     (+ x1 (* x4 x4)))) (+ x1 x4))) (+ x1 x2))
+     x4) (+ x4 x2))) x2) x4)
+
+Generation: 109
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.895160845201364E23
+Tree 0:
+ (+ (- (- x2 (+ (* (* (* x1 (* (- x4 (+ x3
+     (+ x1 (* x4 x4)))) (+ x1 x4))) (+ x1 x2))
+     x4) x4)) x2) x4)
+
+Generation: 110
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.642621740256071E26
+Tree 0:
+ (+ (- (- x2 (+ (* (* (* x1 (* (- x4 (+ x3
+     (+ x1 (* x4 x4)))) (+ x1 x4))) (- x2 (+ (*
+     x4 x2) x4))) x4) x4)) x2) x4)
+
+Generation: 111
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.530738699679082E23
+Tree 0:
+ (- (* x1 x3) (+ (- x3 (/ (+ (/ (+ (- x2 x3)
+     x3) (+ x3 (/ x3 x1))) (- (+ (* (* (* x1 (*
+     (- x4 (+ x3 (+ x1 (* x4 x4)))) (+ x1 x4)))
+     (- x2 (+ (* x4 x2) x4))) x4) x4) x3)) x1))
+     x4))
+
+Generation: 112
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.530738699679082E23
+Tree 0:
+ (- (* x1 x3) (+ (- x3 (/ (+ (/ (+ (- x2 x3)
+     x3) (+ x3 (/ x3 x1))) (- (+ (* (* (* x1 (*
+     (- x4 (+ x3 (+ x1 (* x4 x4)))) (+ x1 x4)))
+     (- x2 (+ (* x4 x2) x4))) x4) (/ x4 x3)) x3))
+     x1)) x4))
+
+Generation: 113
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.2292273197780374E19
+Tree 0:
+ (+ (* (- x4 x3) (* x3 (- x3 (- (- (* (* x2
+     x2) x4) (+ (+ x2 x1) x4)) x4)))) x4)
+
+Generation: 114
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.1138250748922209E18
+Tree 0:
+ (+ (* (* x3 (* x2 x2)) (* x4 x3)) x2)
+
+Generation: 115
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.113825074891348E18
+Tree 0:
+ (* (* x3 (* x2 x2)) (* x4 x3))
+
+Generation: 116
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.721647535102012E19
+Tree 0:
+ (* (* x2 (- (* x4 x4) x4)) (+ (* x2 x2) (+
+     x4 x3)))
+
+Generation: 117
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.150172149257066E19
+Tree 0:
+ (- (* x4 (+ x1 (- x3 (* x2 (* x2 (+ (* x1
+     x2) x4)))))) (+ x3 x4))
+
+Generation: 118
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.3469269318053279E18
+Tree 0:
+ (* (* (* (* x3 x2) (- x1 x2)) x3) x4)
+
+Generation: 119
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.8849125644633946E17
+Tree 0:
+ (* (* (* (* (- (/ (/ (/ x1 x4) x4) (- (/
+     x3 x2) x3)) x2) x3) x3) (- x1 x2)) x3)
+
+Generation: 120
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.9000060547633408E17
+Tree 0:
+ (* (* (* (* (- (/ (+ x2 x4) (- (/ x3 x2)
+     x3)) x2) x3) x3) (- x1 x2)) x3)
+
+Generation: 121
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.8805847338725645E17
+Tree 0:
+ (* (* (* (* (- (/ (+ x2 x4) (- (+ x2 x3)
+     x3)) x2) x3) x3) (- x1 x2)) x3)
+
+Generation: 122
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.2048079291431816E22
+Tree 0:
+ (* (* x2 (- x2 (* x4 x1))) (* (* (- x1 x2)
+     x4) x3))
+
+Generation: 123
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.0464605366991944E18
+Tree 0:
+ (+ x1 (* (* (* x3 x4) (* x1 x2)) x4))
+
+Generation: 124
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.471280641109299E25
+Tree 0:
+ (* (* x2 (- x2 (* x4 x1))) (* (/ (* (+ x2
+     x4) (* x1 (* (+ x2 x3) x3))) x1) x3))
+
+Generation: 125
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 6.696734534434563E25
+Tree 0:
+ (* (* x2 (- x2 (* x4 x1))) (* (/ (* (+ x2
+     x4) (* x1 (* (+ x2 x3) x3))) x1) (+ x1 (-
+     x3 x3))))
+
+Generation: 126
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.727396706881946E25
+Tree 0:
+ (* (* x2 (- x2 (* x4 x1))) (* (/ (* (+ x2
+     x4) (* x1 (* (+ x1 x3) x3))) x1) (+ x1 (-
+     x3 x3))))
+
+Generation: 127
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 9.076553248201855E21
+Tree 0:
+ (* (* (- (+ x4 (* x4 x1)) x2) (+ (- x4 x4)
+     x1)) (* (* x3 x4) x2))
+
+Generation: 128
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 6.818427456834912E21
+Tree 0:
+ (* (* (- (+ x4 (* x4 x1)) x2) (* (+ x2 x3)
+     x3)) (+ (- (* x2 x3) x3) x3))
+
+Generation: 129
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 4.1472637006247484E22
+Tree 0:
+ (- (* (* (* (- (+ x4 (* x4 x1)) x2) (* x1
+     (+ (- (+ x1 x1) (/ x3 x4)) x3))) x4) x4)
+     x3)
+
+Generation: 130
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.088548060355886E23
+Tree 0:
+ (* (* (/ x1 x2) (* x1 (- (/ x3 x1) (* (+
+     x1 (+ (/ x1 x3) x4)) (- (* (+ x2 x2) (* x2
+     x2)) (+ x4 (- x4 x4))))))) (/ (* x2 (+ x1
+     x2)) x2))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.9070183744850076E41
+Tree 0:
+ (* x3 (* (- (* (* (* (+ x1 x4) x2) x4) (+
+     x2 (- (* x1 (- x1 (* x3 (* x3 (* (* x3 x2)
+     x2))))) x3))) (* x1 x2)) (* x1 x2)))

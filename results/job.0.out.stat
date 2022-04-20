@@ -1,0 +1,147 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.1851893059027537E32
+Tree 0:
+ (* (- (* (* (* x4 x3) (/ x4 x3)) (* (+ x4
+     x4) (+ x1 x4))) (/ (/ (- x3 x3) (/ x1 x3))
+     (* (+ x4 x1) (/ x2 x3)))) (* (* (- (- x3
+     x2) (* x1 x1)) (+ (* x4 x2) (+ x1 x1))) (/
+     (* (/ x3 x1) (* x3 x1)) (* (+ x2 x3) (/ x4
+     x2)))))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.9012998757782145E26
+Tree 0:
+ (* (* (* (* x3 (+ x3 x4)) (- (+ x1 x1) (+
+     x3 x3))) (/ (/ (+ x2 x3) (/ x3 x2)) (* (*
+     x3 x1) (/ x1 x3)))) (* (* (* (+ x1 x4) (*
+     x1 x4)) (+ (- x2 x3) (* x4 x3))) (/ (+ (*
+     x4 x1) (/ x3 x4)) (* (- x4 x4) (+ x2 x3)))))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.160908185689002E30
+Tree 0:
+ (* (* (* (* x3 (+ x3 x4)) (- (* x2 x2) (+
+     x3 x3))) (/ (/ (+ x2 x3) (/ x3 x2)) (* (*
+     x3 x1) (/ x1 x3)))) (* (* (* (+ x1 x4) (*
+     x1 x4)) (+ (- x2 x3) (* x4 x3))) (/ (+ (*
+     x4 x1) (/ x3 x4)) (* (- x4 x4) (+ x2 x3)))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 7.594717026739372E25
+Tree 0:
+ (* (- (/ x1 x3) (+ x4 x4)) (* (* (+ (* x4
+     x3) (- x2 x3)) (* (+ x1 x3) (* x4 x1))) (*
+     (+ x3 x1) (/ (/ x2 x2) (/ x4 x4)))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 5.400719788386695E33
+Tree 0:
+ (* (+ (- (/ (- x4 x2) (* x1 x2)) (/ (+ x4
+     x4) (- x2 x1))) (* (* (- x1 x1) (* x2 x1))
+     (- (+ x3 x4) (- x4 x4)))) (* (- (+ (- x1
+     x2) (* x4 x2)) (- (/ x1 x2) (* x1 x4))) (*
+     (/ (- x2 x1) (+ x3 x3)) (* (* x2 (* (* x2
+     x3) (* x2 x2))) (- (/ x1 x1) (* (+ x3 x2)
+     (- x2 x1)))))))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 1.6088710205622625E30
+Tree 0:
+ (* (* (+ (+ (* x1 x3) (/ x4 x4)) (/ x3 x3))
+     (* (* x3 x2) (- x3 (* x3 (* x4 x1))))) (+
+     (* (/ x2 (+ x2 x4)) (/ x4 x1)) (+ (- x1 x3)
+     (* x3 x3))))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 8.864941677003699E31
+Tree 0:
+ (* (- x2 (* (* (+ (+ x2 x4) (* (+ x1 (* x3
+     (+ x4 x4))) (- x3 x4))) (* x2 x2)) (- (/
+     (- x3 x4) (/ x3 x2)) (- (- x3 x1) (* x1 x3)))))
+     (* x4 x3))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.5945859021717545E36
+Tree 0:
+ (* (- x2 (* (* (+ (+ x2 x4) (* (+ x1 (* x3
+     (+ x4 x4))) (- x3 x4))) (* x2 x2)) (- (-
+     (- (- (+ (/ x3 x2) (- x3 x3)) (* x4 x2))
+         (/ (- (+ x1 x4) (/ x2 x1)) (/ (+ x4 x3) (/
+             x1 x1)))) (* (- (- x4 (* x3 x2)) (+ (/ x4
+     x3) (* x3 x3))) (/ (+ (+ x2 x3) x4) (/ (-
+     x1 x2) (+ x3 x1))))) (- (- x3 x1) (* x1 x3)))))
+     (* x4 x3))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.5945861329110255E36
+Tree 0:
+ (* (- x2 (* (* (+ (+ x2 x4) (* (+ x1 (* x3
+     (+ x4 x4))) (- x3 x4))) (* x2 x2)) (- (-
+     (- (- (+ (/ x3 x2) (- x3 x3)) (* x4 x2))
+         (/ (- (+ x1 x4) (/ x2 x1)) (/ (+ x4 x3) (/
+             x1 x1)))) (* (- (- x4 (* x3 x2)) (+ (/ x4
+     x3) (* x3 x3))) (/ (+ (+ x2 x3) x4) (/ (-
+     x1 x2) (+ x3 x1))))) (- (* (/ x3 x1) (+ x3
+     x2)) (* x1 x3))))) (* x4 x3))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 3.9121759922583686E31
+Tree 0:
+ (* (+ x2 x2) (* (* x4 x1) (* (* (* x3 x2)
+     (- (- x1 x2) (* x3 (* x1 x3)))) x2)))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 6.831432183485628E31
+Tree 0:
+ (* (- (- x1 x3) x4) (+ (* (* x3 (- (+ (/
+     (/ x4 x4) x2) (* (- x4 x3) (* x4 x2))) (-
+     (* (- (* (* x4 x3) x1) x3) (* x1 x2)) (/
+     (- x1 x1) x2)))) (+ (* x2 x2) x4)) x3))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 2.5945861329110255E36
+Tree 0:
+ (* (- x2 (* (* (+ (+ x2 x4) (* (+ x1 (* x3
+     (+ x4 x4))) (- x3 x4))) (* x2 x2)) (- (-
+     (- (- (+ (/ x3 x2) (- x3 x3)) (* x4 x2))
+         (/ (- (+ x1 x4) (/ x2 x1)) (/ (+ x4 x3) (/
+             x1 x1)))) (* (- (- x4 (* x3 x2)) (+ (/ x4
+     x3) (* x3 x3))) (/ (+ (+ x2 x3) x4) (/ (-
+     x1 x2) (+ x3 x1))))) (- (* (/ x3 x1) (+ x3
+     x2)) (* x1 x3))))) (* x4 x3))

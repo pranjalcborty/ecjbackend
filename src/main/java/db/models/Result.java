@@ -2,6 +2,7 @@ package db.models;
 
 import javax.persistence.*;
 import java.io.Serializable;
+import java.util.Date;
 import java.util.Objects;
 
 @Entity
@@ -13,6 +14,16 @@ public class Result extends CommonParent implements Serializable {
     @Id
     @GeneratedValue(strategy = GenerationType.IDENTITY)
     private int id;
+
+    public Result() {
+    }
+
+    public Result(String uuid, String jsonData) {
+        this.uuid = uuid;
+        this.jsonData = jsonData;
+        this.status = Status.COMPLETED;
+        this.uploadedOn = new Date();
+    }
 
     public int getId() {
         return id;

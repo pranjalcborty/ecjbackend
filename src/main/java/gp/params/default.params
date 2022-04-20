@@ -1,0 +1,35 @@
+parent.0 = koza.params
+
+pop.subpop.0.species.fitness = ec.simple.SimpleFitness
+
+gp.fs.size = 1
+gp.fs.0 = ec.gp.GPFunctionSet
+gp.fs.0.name = f0
+
+pop.subpop.0.size = 512
+
+pop.subpop.0.species.pipe.source.0 = ec.gp.koza.CrossoverPipeline
+pop.subpop.0.species.pipe.source.0.prob = 0.9
+pop.subpop.0.species.pipe.source.1 = ec.gp.koza.MutationPipeline
+pop.subpop.0.species.pipe.source.1.prob = 0.1
+
+generations = 51
+select.tournament.size = 1
+
+jobs = 5
+
+evalthreads = 6
+breedthreads = 6
+
+seed.0 = 4762
+seed.1 = 4770
+seed.2 = 4778
+seed.3 = 4786
+seed.4 = 4794
+seed.5 = 4802
+
+eval.problem.data = ec.app.tutorial4.DoubleData
+
+# output statistics to the file "out.stat" in the directory
+# the run was started in
+stat.file				$results/out.stat

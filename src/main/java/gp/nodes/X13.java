@@ -12,7 +12,7 @@ import gp.problems.CommonProblem;
 public class X13 extends GPNode {
 
     public String toString() {
-        return "pix";
+        return "x13";
     }
 
     public int expectedChildren() {

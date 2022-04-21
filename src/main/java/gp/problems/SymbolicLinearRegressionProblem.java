@@ -2,24 +2,19 @@ package gp.problems;
 
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
-import db.models.*;
+import db.models.Config;
+import db.models.Dataset;
+import db.models.DatasetModel;
 import db.utils.JPAUtil;
 import ec.EvolutionState;
 import ec.Individual;
 import ec.app.tutorial4.DoubleData;
 import ec.gp.GPIndividual;
 import ec.simple.SimpleFitness;
-import ec.util.Parameter;
 
-import java.io.BufferedReader;
-import java.io.FileReader;
-import java.io.IOException;
-import java.nio.file.Files;
-import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
 import java.util.stream.Collectors;
-import java.util.stream.Stream;
 
 import static java.lang.Math.abs;
 
@@ -98,65 +93,6 @@ public class SymbolicLinearRegressionProblem extends CommonProblem {
             f.setFitness(evolutionState, sum, (hits == inputX.size()));
 
             ind.evaluated = true;
-        }
-    }
-
-    @Override
-    public void describe(EvolutionState evolutionState, Individual individual,
-                         int subPopulation, int threadNum, int log) {
-
-        int totalJobs = evolutionState.parameters.getInt(new Parameter("jobs"), null);
-
-        if ((int) evolutionState.job[0] == (totalJobs - 1)) {
-            ResultModel resultModel = new ResultModel();
-
-            try (Stream<Path> filesWalk = Files.walk(Path.of("./results"))) {
-
-                filesWalk.filter(filePath -> filePath.toString().endsWith(".stat"))
-                        .forEach(filePath -> {
-                            String runId = filePath.toString().split("\\.")[2];
-
-                            try {
-                                BufferedReader br = new BufferedReader(new FileReader(filePath.toString()));
-                                List<Double> fitness = new ArrayList<>();
-
-                                for (String s = br.readLine(); s != null; s = br.readLine()) {
-                                    if (s.startsWith("Fitness: ")) {
-                                        fitness.add(Double.parseDouble(s.split("\\s")[1]));
-                                    }
-                                }
-
-                                resultModel.getBestIndividualFitnessMap()
-                                        .put(runId, fitness.remove(fitness.size() - 1));
-
-                                resultModel.getAllRunInfoMap().put(runId, fitness);
-                            } catch (IOException e) {
-                                e.printStackTrace();
-                            }
-                        });
-
-            } catch (Exception e) {
-                e.printStackTrace();
-            }
-
-            try {
-                String jsonData = new ObjectMapper().writeValueAsString(resultModel);
-                JPAUtil jpaUtil = new JPAUtil();
-                Config config = jpaUtil.getCurrentTask();
-
-                Result result = new Result(config.getUuid(), jsonData);
-                jpaUtil.save(result);
-
-                config.setStatus(Status.COMPLETED);
-                jpaUtil.update(config);
-
-                Dataset dataset = jpaUtil.getDatasetByUUID(config.getUuid());
-                dataset.setStatus(Status.COMPLETED);
-                jpaUtil.update(config);
-
-            } catch (JsonProcessingException e) {
-                e.printStackTrace();
-            }
         }
     }
 

@@ -18,15 +18,13 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.util.ArrayList;
 import java.util.List;
-import java.util.stream.Collectors;
 import java.util.stream.Stream;
 
-import static java.lang.Math.abs;
-
-public class SymbolicLinearRegressionProblem extends CommonProblem {
+public class BinaryClassificationProblem extends CommonProblem {
 
     public List<double[]> inputX = new ArrayList<>();
-    public List<Double> inputY = new ArrayList<>();
+    public List<String> inputY = new ArrayList<>();
+    public String[] uniqueVals;
 
     @Override
     public void evaluate(final EvolutionState evolutionState, final Individual individual,
@@ -43,8 +41,15 @@ public class SymbolicLinearRegressionProblem extends CommonProblem {
             GPIndividual ind = (GPIndividual) individual;
 
             int hits = 0;
-            double sum = 0;
-            double expectedResult, result;
+            String expectedResult, result;
+
+            /*
+             * tp = True Positive
+             * tn = True Negative
+             * fp = False Positive
+             * fn = False Negative
+             * */
+            int tp = 0, tn = 0, fp = 0, fn = 0;
 
             for (int i = 0; i < inputX.size(); i++) {
                 double[] currentX = inputX.get(i);
@@ -85,17 +90,31 @@ public class SymbolicLinearRegressionProblem extends CommonProblem {
                 expectedResult = inputY.get(i);
 
                 ind.trees[0].child.eval(evolutionState, threadNum, input, stack, ind, this);
+                result = input.x > 0 ? uniqueVals[0] : uniqueVals[1];
 
-                result = abs(expectedResult - input.x);
-                if (result <= 0.001) {
+                if (expectedResult.equals(result)) {
                     hits++;
                 }
 
-                sum += result;
+                if (expectedResult.equals(uniqueVals[0])) {
+                    if (result.equals(uniqueVals[0])) {
+                        tp++;
+                    } else {
+                        fn++;
+                    }
+                } else {
+                    if (result.equals(uniqueVals[0])) {
+                        fp++;
+                    } else {
+                        tn++;
+                    }
+                }
             }
 
+            double fitness = 1 / (double) (fp + fn + 1);
+
             SimpleFitness f = ((SimpleFitness) ind.fitness);
-            f.setFitness(evolutionState, sum, (hits == inputX.size()));
+            f.setFitness(evolutionState, fitness, (hits == inputX.size()));
 
             ind.evaluated = true;
         }
@@ -116,22 +135,25 @@ public class SymbolicLinearRegressionProblem extends CommonProblem {
                         .forEach(filePath -> {
                             String runId = filePath.toString().split("\\.")[2];
 
-                            try {
-                                BufferedReader br = new BufferedReader(new FileReader(filePath.toString()));
-                                List<Double> fitness = new ArrayList<>();
+                            if (Integer.parseInt(runId) < totalJobs) {
 
-                                for (String s = br.readLine(); s != null; s = br.readLine()) {
-                                    if (s.startsWith("Fitness: ")) {
-                                        fitness.add(Double.parseDouble(s.split("\\s")[1]));
+                                try {
+                                    BufferedReader br = new BufferedReader(new FileReader(filePath.toString()));
+                                    List<Double> fitness = new ArrayList<>();
+
+                                    for (String s = br.readLine(); s != null; s = br.readLine()) {
+                                        if (s.startsWith("Fitness: ")) {
+                                            fitness.add(Double.parseDouble(s.split("\\s")[1]));
+                                        }
                                     }
+
+                                    resultModel.getBestIndividualFitnessMap()
+                                            .put(runId, fitness.remove(fitness.size() - 1));
+
+                                    resultModel.getAllRunInfoMap().put(runId, fitness);
+                                } catch (IOException e) {
+                                    e.printStackTrace();
                                 }
-
-                                resultModel.getBestIndividualFitnessMap()
-                                        .put(runId, fitness.remove(fitness.size() - 1));
-
-                                resultModel.getAllRunInfoMap().put(runId, fitness);
-                            } catch (IOException e) {
-                                e.printStackTrace();
                             }
                         });
 
@@ -181,6 +203,12 @@ public class SymbolicLinearRegressionProblem extends CommonProblem {
             inputX.add(dataRow);
         }
 
-        inputY = datasetModel.getY().stream().map(Double::valueOf).collect(Collectors.toList());
+        inputY = datasetModel.getY();
+
+        uniqueVals = inputY.stream().distinct().toArray(String[]::new);
+
+        if (uniqueVals.length != 2) {
+            throw new IllegalStateException();
+        }
     }
 }

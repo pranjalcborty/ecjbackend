@@ -12,6 +12,7 @@ public class ConfigModel implements Serializable {
 
     private List<Integer> functionChoices;
     private Map<Integer, String> paramChoices;
+    private Problem problem;
 
     public ConfigModel() {
         functionChoices = new ArrayList<>();
@@ -32,5 +33,13 @@ public class ConfigModel implements Serializable {
 
     public void setParamChoices(Map<Integer, String> paramChoices) {
         this.paramChoices = paramChoices;
+    }
+
+    public Problem getProblem() {
+        return problem;
+    }
+
+    public void setProblem(Problem problem) {
+        this.problem = problem;
     }
 }

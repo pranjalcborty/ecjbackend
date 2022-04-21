@@ -8,9 +8,13 @@ import ec.Evolve;
 import ec.gp.GPNode;
 import gp.functions.*;
 
-import java.util.*;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
 
 import static java.lang.String.format;
+import static java.util.Collections.unmodifiableMap;
 
 public class Util {
 
@@ -26,7 +30,7 @@ public class Util {
         FUNCTION_CHOICES.put(5, new Cos());
         FUNCTION_CHOICES.put(6, new Max());
         FUNCTION_CHOICES.put(7, new Min());
-        FUNCTION_CHOICES = Collections.unmodifiableMap(FUNCTION_CHOICES);
+        FUNCTION_CHOICES = unmodifiableMap(FUNCTION_CHOICES);
 
         GP_PARAM_CHOICES.put(0, "pop.subpop.0.size");
         GP_PARAM_CHOICES.put(1, "pop.subpop.0.species.pipe.source.0.prob");
@@ -35,7 +39,7 @@ public class Util {
         GP_PARAM_CHOICES.put(4, "select.tournament.size");
         GP_PARAM_CHOICES.put(5, "breed.elite.0");
         GP_PARAM_CHOICES.put(6, "jobs");
-        GP_PARAM_CHOICES = Collections.unmodifiableMap(GP_PARAM_CHOICES);
+        GP_PARAM_CHOICES = unmodifiableMap(GP_PARAM_CHOICES);
     }
 
     public String[] getRunConfig(ConfigModel config, String uuid) throws JsonProcessingException {
@@ -81,7 +85,7 @@ public class Util {
         }
 
         runConfig.add("-p");
-        runConfig.add("eval.problem=gp.problems.SymbolicLinearRegressionProblem");
+        runConfig.add(format("eval.problem=%s", config.getProblem().getProblemClass()));
 
         return runConfig.toArray(new String[0]);
     }

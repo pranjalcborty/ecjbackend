@@ -7,7 +7,7 @@ import ec.gp.ADFStack;
 import ec.gp.GPData;
 import ec.gp.GPIndividual;
 import ec.gp.GPNode;
-import gp.problems.SymbolicLinearRegressionProblem;
+import gp.problems.CommonProblem;
 
 public class X17 extends GPNode {
 
@@ -28,6 +28,6 @@ public class X17 extends GPNode {
                      final Problem problem) {
 
         DoubleData rd = ((DoubleData) (input));
-        rd.x = ((SymbolicLinearRegressionProblem) problem).currentX17;
+        rd.x = ((CommonProblem) problem).currentX17;
     }
 }

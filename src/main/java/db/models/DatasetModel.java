@@ -9,7 +9,7 @@ public class DatasetModel implements Serializable {
 
     List<String> columns;
     List<List<Double>> X;
-    List<Double> Y;
+    List<String> Y;
 
     public List<String> getColumns() {
         return columns;
@@ -27,11 +27,11 @@ public class DatasetModel implements Serializable {
         X = x;
     }
 
-    public List<Double> getY() {
+    public List<String> getY() {
         return Y;
     }
 
-    public void setY(List<Double> y) {
+    public void setY(List<String> y) {
         Y = y;
     }
 }

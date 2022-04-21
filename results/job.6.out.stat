@@ -1,0 +1,1643 @@
+
+Generation: 0
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.019230769230769232
+Tree 0:
+ (/ (* (* x6 x2) (* x17 x19)) (/ (/ pix x6)
+     (- x8 x10)))
+
+Generation: 1
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.022727272727272728
+Tree 0:
+ (- (- (- (- (+ x30 x7) (* x12 x3)) (* (/
+     x28 x26) (/ x28 x27))) (* (+ (* x21 x14)
+     (- x1 x6)) (* (- x11 x22) (* x27 x8)))) (+
+     x21 x29))
+
+Generation: 2
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.015151515151515152
+Tree 0:
+ (* (/ (- (/ x19 x9) (+ x2 x7)) (- x18 x28))
+     (/ (+ (+ x27 x15) (* x9 x30)) (* (- x23 pix)
+         (- x7 x30))))
+
+Generation: 3
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.015151515151515152
+Tree 0:
+ (* (+ x24 x3) (/ (+ (+ x27 x15) (* x9 x30))
+     (* (- x23 pix) (- x7 x30))))
+
+Generation: 4
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.014492753623188406
+Tree 0:
+ (+ (* (+ x1 x5) (* x17 x5)) (+ (/ x8 x10)
+     (/ (* (- (/ x18 x14) (* (- x1 x8) x2)) (/
+         (- x9 x28) (/ x25 x28))) x1)))
+
+Generation: 5
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.014492753623188406
+Tree 0:
+ (* (- x16 x9) (- x5 x7))
+
+Generation: 6
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.017543859649122806
+Tree 0:
+ (/ (- (/ (* (- x2 x27) (* x29 x10)) (/ (*
+     x15 x12) (* x19 x30))) (- (- (/ x8 x6) (+
+     x26 x1)) (/ (/ (/ x23 x7) (+ x28 (* x19 x10)))
+     (- x17 x4)))) (* (* (* (/ x12 x19) (* x21
+     x28)) (- (/ x6 x6) (+ x6 x7))) (/ (/ (/ x3
+     x16) (* x25 x28)) (* (* x18 x21) (+ x26 x1)))))
+
+Generation: 7
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.023809523809523808
+Tree 0:
+ (+ (* (- (- x24 (* (- x3 x17) (/ x27 x23)))
+     (/ x3 x28)) (* x12 x8)) (* (- (- x7 x6) (-
+     x11 x25)) (* x22 x20)))
+
+Generation: 8
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.023809523809523808
+Tree 0:
+ (+ (* (- (- x24 (* (- x3 x17) (/ x27 x23)))
+     (/ x3 x28)) (* x12 x8)) (* (- (- x7 x6) (-
+     x11 x25)) (/ x27 (- (- x2 x15) (* (- x1 x22)
+     (+ x24 x26))))))
+
+Generation: 9
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.023809523809523808
+Tree 0:
+ (+ (* (- (- x24 (* (- x3 x17) (/ x27 x23)))
+     (/ x3 x28)) (* x12 x8)) (* (- (- x7 x6) (*
+     (* (+ x23 x7) (- x12 x17)) (- (- x20 x10)
+     x9))) (/ x27 (- (- x2 x15) (* (- x1 x22)
+     (+ x24 x26))))))
+
+Generation: 10
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.018867924528301886
+Tree 0:
+ (+ (* (- (- x24 (* (- x3 x17) (/ x27 x23)))
+     (/ x3 x28)) (* x12 x8)) (* (- (- x7 x6) (*
+     (* (+ x23 x7) (- x12 x17)) (- x26 x4))) (/
+     x27 (- (- x2 x15) (* (- x1 x22) (+ x24 x26))))))
+
+Generation: 11
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.01694915254237288
+Tree 0:
+ (* (+ (* (- (+ x18 (* (- (* (- x20 x19) (/
+     x4 x4)) x26) (* x11 x7))) (+ x8 x30)) x30)
+     (* (/ (/ x5 x5) (+ x10 x10)) (+ (+ x28 x25)
+         (/ (* x21 x22) (* pix x6))))) (* (* (/ (/
+     x16 x27) (/ x22 x21)) (* (* x2 x4) (+ x22
+     (+ (+ (* x15 x20) (+ x29 x16)) (+ (* x10
+         x23) (- x28 x28)))))) (/ (- (* (* (+ (+ x27
+     x15) (* (- (+ (+ (* (- (- x26 x4) x17) (*
+     x3 x27)) (* (+ x10 x3) (* x17 x27))) (- (+
+     (* x5 x11) (/ x11 x17)) (/ (* x26 x23) (-
+     x20 x28)))) (+ x20 x1)) (/ (+ (+ x27 x15)
+     (* x9 x30)) (* (- x23 pix) (- x7 x30)))))
+     (- x15 x27)) (- (+ x12 x29) (- x17 pix)))
+     (/ (/ x3 x28) (+ (/ x27 x12) (* x14 x15))))
+     (- (* (+ x22 x2) (+ x29 x3)) (/ (- x20 x21)
+         (/ x16 x30))))))
+
+Generation: 12
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.01694915254237288
+Tree 0:
+ (* (+ (* (- (+ x18 (* (- (* (- x20 x19) (/
+     x4 x4)) x26) (* x11 x7))) (/ (- (- x6 pix)
+     (- x7 x20)) (- (/ x3 x9) (+ x27 x17)))) x30)
+     (* (/ (/ x5 x5) (+ x10 x10)) (+ (+ x28 x25)
+         (/ (* x21 x22) (* pix x6))))) (* (* (/ (/
+     x16 x27) (/ x22 x21)) (* (* x2 x4) (+ x22
+     (+ (+ (* x15 x20) (+ x29 x16)) (+ (* x10
+         x23) (- x28 x28)))))) (/ (- (* (* (+ (+ x27
+     x15) (* (- (+ (+ (* (- (- x26 x4) x17) (*
+     x3 x27)) (* (+ x10 x3) (* x17 x27))) (- (+
+     (* x5 x11) (/ x11 x17)) (/ (* x26 x23) (-
+     x20 x28)))) (+ x20 x1)) (/ (+ (+ x27 x15)
+     (* x9 x30)) (* (- x23 pix) (- x7 x30)))))
+     (- x15 x27)) (- (+ x12 x29) (- x17 pix)))
+     (/ (/ x3 x28) (+ (/ x27 x12) (* x14 x15))))
+     (- (* (+ x22 x2) (+ x29 x3)) (/ (- x20 x21)
+         (/ x16 x30))))))
+
+Generation: 13
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.019230769230769232
+Tree 0:
+ (* (+ (* (- (+ x18 x25) (* x10 (/ (- x22
+     x8) (/ x12 x4)))) x30) (* (/ (/ x5 x5) (+
+     x10 x10)) (+ (+ x28 x25) (+ x21 x2)))) (*
+     (* (+ x5 x21) (* (* x2 x4) (+ x22 (+ x29
+         (+ (* x10 x23) (- x28 x28)))))) (- (- (-
+     x28 (/ x15 x7)) x16) x16)))
+
+Generation: 14
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02127659574468085
+Tree 0:
+ (- (- x8 x6) (- (/ (* (/ x5 x25) (/ x1 x2))
+     (+ (/ pix x5) (* x18 x21))) (- x7 (- x18
+     x15))))
+
+Generation: 15
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.020833333333333332
+Tree 0:
+ (* (+ (- x20 x12) (* (/ (/ x5 x5) (+ x10
+     x10)) (+ (+ x28 x25) (+ x21 x2)))) (* (*
+     (+ x5 x21) (* (* x2 x4) (* (/ x10 x5) (+
+     x28 x2)))) (- (- (- x28 (/ x15 x7)) x16)
+     x16)))
+
+Generation: 16
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.020833333333333332
+Tree 0:
+ (* (+ (- x20 x12) (* (/ (/ x5 x5) (+ x10
+     x10)) (+ (+ x28 x25) (+ x21 x2)))) (* (*
+     (+ x5 x21) (* (* x20 x4) (* (/ x10 x5) (+
+     x28 x2)))) (- (- (- x28 (/ x15 x7)) x16)
+     x16)))
+
+Generation: 17
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.020833333333333332
+Tree 0:
+ (* x21 (* (* (+ x5 x21) (* (* x2 x4) (+ x22
+     (+ x29 (+ (* (- x12 x9) (/ x2 x12)) (- x28
+         x28)))))) (- (- (- x28 (/ x15 x7)) x16) x16)))
+
+Generation: 18
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02631578947368421
+Tree 0:
+ (* (+ (- (* (* (/ (- (/ x15 x6) (* x17 x27))
+     (* x2 x25)) (- x12 x17)) x4) (+ x28 (/ x3
+     x28))) (- (- (+ x19 (- (/ x21 x26) (* x15
+     x15))) (- x22 x4)) x2)) x27)
+
+Generation: 19
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.023255813953488372
+Tree 0:
+ (+ (- (* (- (- x28 (/ x15 x7)) x16) x4) (+
+     x28 (/ x3 x28))) (- (- (+ x19 (* (- x3 x3)
+     (+ (- (/ (* x2 x25) (+ (+ x27 x15) (* x9
+         x30))) (* x4 x4)) x30))) (- x22 x4)) x2))
+
+Generation: 20
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.021739130434782608
+Tree 0:
+ (* (+ (- (* (* x26 (- x12 x17)) x4) (+ x28
+     (/ x3 x28))) (- (- (+ x19 (- (- x20 x28)
+     (* x15 x15))) (- x22 x4)) x2)) x27)
+
+Generation: 21
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.020833333333333332
+Tree 0:
+ (* (+ (+ x27 (+ (+ x28 x25) (+ x21 x2)))
+     (* x9 x30)) (* (* (+ x5 x21) (- x12 x9))
+     (- (- (- x28 (/ x15 x7)) x16) x16)))
+
+Generation: 22
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (/
+     (* x17 x27) (* (+ x10 x3) (- x7 x2))) x4)))
+
+Generation: 23
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.024390243902439025
+Tree 0:
+ (+ (- (* (+ (/ (- x16 x18) (* x4 x4)) (-
+     (/ (* x25 x9) (- (* x3 x7) (/ x16 x27)))
+     (/ (* x9 x9) (- x20 x28)))) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (- x3 x3) (+ (-
+     (/ x3 (* (* (- (+ (- x20 x28) (- (+ (* x5
+         x11) (/ x11 x17)) (/ (* x26 x23) (- x20 x28))))
+         (+ x20 x1)) (/ (+ (+ x27 x15) (/ x29 x5))
+         (/ x10 x21))) (/ (- (+ x12 x29) (/ x6 x27))
+         (/ (* (/ x5 x25) (/ x1 x2)) (+ (/ pix x5)
+             (* x20 x18)))))) (* x4 x4)) x30))) (- x22
+     x4)) x2))
+
+Generation: 24
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.024390243902439025
+Tree 0:
+ (+ (- (* (+ (/ (- x16 x18) (* x4 x4)) (-
+     (/ (* x25 x9) (- (* x3 x7) (/ x16 x27)))
+     (/ (* x9 x9) (- x20 x28)))) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (- x3 x3) (+ (-
+     (* x26 x23) (* x4 x4)) x30))) (- x22 x4))
+     x2))
+
+Generation: 25
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (* (* (/ (- (- (+ x1 (- x7 x11)) (/
+     (/ (- x5 x30) x28) (- x20 x28))) (* x17 x27))
+     (/ (- x26 x3) (- x17 x12))) (- x12 x17))
+     x4) (+ (+ x10 x3) (/ x3 x28))) (- (- (+ x19
+     (* (- x3 x3) (+ (- (/ x3 (* (+ (- (- x28
+         (/ x15 x7)) (+ x28 (/ x3 x28))) (- (- (+
+         x19 (* (- x3 x3) x4)) (- x22 x4)) x2)) (-
+         x26 x3))) (* x4 x4)) x30))) (- x22 x4)) x2))
+
+Generation: 26
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (* (* (/ (- (- (+ x1 (- x7 x11)) (/
+     (/ (- x5 x30) x28) (- x20 x28))) (* x17 x27))
+     (/ (- x26 x3) (- x17 x12))) (- x12 x17))
+     x4) (+ (+ x10 x3) (/ x3 x28))) (- (- (+ x19
+     (* (- x3 x3) (* (* (/ x21 x3) (- x18 x11))
+         (* (- (* x1 x12) (- x12 x9)) x28)))) (- x22
+     x4)) x2))
+
+Generation: 27
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (* (* (/ (- (- (+ x1 (- x7 x11)) (/
+     (/ (- x5 x30) x28) (- x20 x28))) (* x17 x27))
+     (/ (- x26 x3) (- x17 x12))) (- x12 x17))
+     x4) (+ (+ x10 x3) (/ x3 x28))) (- (- (+ x19
+     (* (- x3 x3) (* (* (/ x21 x3) (- x18 x11))
+         x28))) (- x22 x4)) x2))
+
+Generation: 28
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (* (* (/ (- (- (+ x1 (- x7 x11)) (/
+     (/ (- x5 x30) x28) (- x20 x28))) (* x17 x27))
+     (/ (- x26 x3) (- x17 x12))) (- x12 x17))
+     x4) (+ (+ x10 x3) (/ x3 x28))) (- (- (+ x19
+     (* (- x3 x3) (* (* (/ x21 x3) (/ x11 x17))
+         x28))) (- x22 x4)) x2))
+
+Generation: 29
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02564102564102564
+Tree 0:
+ (+ (- (* (* (- x23 pix) (* (* x2 x4) (* x7
+     x25))) (- (- x28 (/ x15 x7)) x16)) (+ x28
+     (/ x3 x28))) (+ (+ x27 x15) (* x9 x30)))
+
+Generation: 30
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.023255813953488372
+Tree 0:
+ (+ (- (* (* (/ (- (/ x15 x6) (* x17 x27))
+     (/ (/ x3 x28) (- x17 x12))) (- x12 x17))
+     x4) (+ x28 (/ x3 x28))) (- (- (+ x19 (* x26
+     (+ (- (+ (* x5 x11) (/ x11 x17)) (/ (* x26
+         x23) (- x20 x28))) x30))) (- x22 x4)) x2))
+
+Generation: 31
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.020833333333333332
+Tree 0:
+ (* (+ (* (+ x2 x24) (* (- (/ x6 x6) (+ (*
+     x7 (* (+ (/ pix x5) (* x20 x18)) (* x9 (*
+     (- (* x25 x9) (- x20 x12)) (+ (- (/ x8 x26)
+     (/ x28 x16)) x25))))) (+ (- (/ x8 x26) (/
+     x28 x16)) x25))) (* x9 x30))) (* (- x3 x17)
+     (+ (+ x28 x25) (+ (+ x27 x15) x2)))) (* (+
+     x28 x25) (- (- (- x28 (/ x15 x7)) x16) x16)))
+
+Generation: 32
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.020833333333333332
+Tree 0:
+ (* (+ (* (+ x2 x24) (* (- (/ x6 x6) (+ (*
+     x7 (* (+ (/ pix x5) (* x20 x18)) (* x9 (*
+     (- (* x25 x9) (- x20 x12)) (+ (- (/ x8 x26)
+     (- x23 pix)) x25))))) (+ (- (/ x8 x26) (/
+     x28 x16)) x25))) (* x9 x30))) (* (- x3 x17)
+     (+ (+ x28 x25) (+ (+ x27 x15) x2)))) (* (+
+     x28 x25) (- (- (- x28 (/ x15 x7)) x16) x16)))
+
+Generation: 33
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (-
+     x6 (* (+ (+ (+ (* x17 x27) (/ x7 x1)) (-
+     (* (* x2 x4) x4) (- x23 pix))) (+ x8 x25))
+     (/ x26 (* (/ x3 x28) (* (* (/ (+ x8 x16)
+         (/ x22 x21)) (* (* x2 x4) x4)) (- (- x28
+         (* x3 x27)) x16)))))) x4)))
+
+Generation: 34
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.023809523809523808
+Tree 0:
+ (+ (- (* (* (/ (- (/ (/ (- x16 x18) (* x4
+     x4)) x6) (* x17 x27)) (/ (- x26 (+ (- (-
+     (/ (/ x6 x6) (/ x23 x16)) (- (/ x21 x24)
+     (* x15 (- x2 pix)))) (+ (+ (+ x2 x24) (-
+     x20 x10)) (- (* x1 x12) (- (+ x4 x15) (+
+     x7 (+ x28 x23)))))) (- (- (- (- x14 x22)
+     (- x20 x12)) (/ (+ pix x15) (- x30 x10)))
+     (/ (- (* (- x23 pix) (+ (/ (- x8 pix) x20)
+         (/ x20 (/ x22 x21)))) (+ (- (+ x11 x14) (+
+         x14 x23)) (/ x6 x21))) (* (/ x3 x18) x5)))))
+     (- x17 x12))) (/ x26 x7)) x4) (+ x28 (/ x3
+     x28))) (- (- (+ x19 (- (* (- x23 (+ (* (/
+     x7 x1) (* x3 x27)) (* (+ x10 x3) (* x17 x27))))
+     x28) (+ (- (+ x11 x14) (+ x14 x23)) (/ (+
+     x24 (- x20 x10)) (/ x3 x28))))) (- x22 x4))
+     x2))
+
+Generation: 35
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.023809523809523808
+Tree 0:
+ (+ (- (* (* (/ (- (/ (/ (- x16 x18) (* x4
+     x4)) x6) (* x17 x27)) (/ (- x26 (+ (- (-
+     (/ (/ x6 x6) (/ x23 x16)) (- (/ x21 x24)
+     (* x15 (- x2 pix)))) (+ (+ (+ x2 x24) (-
+     x20 x10)) (- (* x1 x12) (- (+ x4 x15) (+
+     x7 (+ x28 x23)))))) (- (- (- (- x14 x22)
+     (- x20 x12)) (/ (+ pix x15) (- x30 x10)))
+     (/ (- (* (- x23 pix) (+ (/ (- x8 pix) x20)
+         (/ x20 (/ x22 x21)))) (+ (- (+ x11 x14) (+
+         x14 x23)) (/ x6 x21))) (* (/ x3 x18) x5)))))
+     (- x17 x12))) (/ x26 x7)) x4) (+ x28 (/ x3
+     x28))) (- (- (+ x19 (- (* (- x23 (+ (* (/
+     x7 x1) (* x3 x27)) (* (+ x10 x3) (* x17 x27))))
+     x28) (+ (- (+ x11 x14) (+ x14 x23)) (/ (+
+     x24 (- x20 x10)) (/ x3 x28))))) (- x22 x4))
+     x2))
+
+Generation: 36
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.024390243902439025
+Tree 0:
+ (+ (- (* (* (/ (/ x28 x16) (/ (- x26 (+ (-
+     (- (/ (/ x6 x6) (/ x23 x16)) (- (/ x21 x24)
+         (* x15 (- x2 pix)))) (+ (+ (+ x2 x24) (-
+     x20 x10)) (- (* x1 x12) (- (+ x4 x15) (+
+     x7 (+ x28 x23)))))) (- (- (- (- x14 x22)
+     (- x20 x12)) (/ (+ pix x15) (- x30 x10)))
+     (/ (- (* (- x23 pix) (+ (/ (- x8 pix) x20)
+         (/ x20 (/ x22 x21)))) (+ (- (+ x11 x14) (+
+         x14 x23)) (/ x6 x21))) (* (/ x3 x18) x5)))))
+     (- x17 x12))) (/ x26 x7)) x4) (+ x28 (/ x3
+     x28))) (- (- (+ x19 (- (* (- x23 (+ (* (/
+     x7 x1) (* x3 x27)) (* (+ x10 x3) (* x17 x27))))
+     x28) (+ (- (+ x11 x14) (+ x14 x23)) (/ (+
+     x24 (- x20 x10)) (/ x3 x28))))) (- x22 x4))
+     x2))
+
+Generation: 37
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (* (* (/ (* x25 x9) (+ (+ (- (+ (/
+     x22 x21) (/ x11 x17)) (/ (* x26 x23) (- x20
+     x28))) x16) x29)) (- x12 x17)) x4) (+ x28
+     (/ x3 x28))) (- (- (- (- x23 pix) (/ (- (*
+     x4 x4) (+ (/ x3 x28) (/ (* x25 x9) (/ x2
+     (- (* (- x24 (+ x28 (/ x3 x28))) (* x17 x27))
+         x11))))) (* (/ x3 x18) (/ x2 x12)))) (- x22
+     x4)) x2))
+
+Generation: 38
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (* (* (/ (* x25 x9) (+ (+ (- (+ (/
+     x22 x21) (/ x11 x17)) (/ (* x26 x23) (- x20
+     x28))) x16) x29)) (- x12 x17)) x4) (+ x28
+     (/ x3 x28))) (- (- (- (- x23 pix) (/ (- (*
+     x4 x4) (+ (/ x3 x28) (/ (* x25 x9) (/ x2
+     (- (* (- x24 (+ x28 (/ x3 x28))) (* x17 x27))
+         x11))))) (* (/ x3 x18) (/ x2 x12)))) (- x22
+     x4)) x2))
+
+Generation: 39
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (-
+     x6 (* (+ (+ (+ (* x17 x27) (- x20 x10)) (-
+     (* (* x2 x4) x4) (- x23 pix))) (+ x8 x25))
+     (/ (- x22 x4) (* (- x23 pix) (* (* (/ (/
+         (+ (+ (* x4 x4) (+ x8 x16)) x24) (+ (+ (+
+         (+ (* x21 x16) x22) x12) (- x28 (* x3 x27)))
+         (/ x10 x21))) (- (- (/ x3 (- x18 x15)) (-
+         x20 (/ x15 x7))) (/ (* x26 x23) (* x28 x28))))
+         (* (* x2 x4) x4)) (- (- x28 (* x3 x27)) x16))))))
+     x4)))
+
+Generation: 40
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (* x17 x27) (/ x7
+     x1)) (- (* (* x2 x4) x4) (- x23 pix))) (+
+     (* (- (- (/ (- (* x9 x30) (* x17 x27)) (/
+         (- x26 x3) (- x17 x12))) (- x22 x4)) x2)
+         (* (* (+ (- x27 x7) (* x2 x4)) (* (* x2 x4)
+             x4)) (- (+ x7 x30) x16))) x25)) (/ x26 (*
+     (/ x3 x28) (* (* (/ (/ (+ (+ (/ x1 x2) (+
+     x8 x16)) x24) (+ (+ (+ x28 x22) (+ x7 x30))
+     (/ x10 x21))) (/ x22 x21)) (* (* x2 x4) x4))
+     (- (- x28 (* x3 x27)) x16)))))) x4)))
+
+Generation: 41
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (* x17 x27) (/ x7
+     x1)) (- (* (* x2 x4) x4) (- x23 pix))) (+
+     (* (- (- (/ (- (* x9 x30) (* x17 x27)) (/
+         (- x26 x3) (- x17 x12))) (- x22 x4)) x2)
+         (* (* (+ (+ (- x16 x18) (- x20 x10)) (* x2
+             x4)) (* (* x2 x4) x4)) (- (+ x7 x30) x16)))
+     x25)) (/ x26 (* (/ x3 x28) (* (* (/ (/ (+
+     (+ (/ x1 x2) (+ x8 x16)) x24) (+ (+ (+ x28
+     x22) (+ x7 x30)) (/ x10 x21))) (/ x22 x21))
+     (* (* x2 x4) x4)) (- (- x28 (* x3 x27)) x16))))))
+     x4)))
+
+Generation: 42
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (* (* (/ (* x25 x9) (+ (+ (- (+ (/
+     x22 x21) (/ x11 x17)) (/ (* x26 x23) (* x25
+     x9))) x16) x29)) (- x12 x17)) x4) (+ x28
+     (/ x3 x28))) (- (- (- (- x23 pix) (/ (- (*
+     x4 x4) (+ (- (/ x3 (* (+ x28 (/ x3 x28))
+     (/ (- (+ x12 x29) (/ x6 x27)) (* (* x14 x24)
+         (* x17 x15))))) x30) (/ (* x1 x12) (/ x2
+     (- (* (- x24 (+ x28 (/ x3 x28))) (* x17 x27))
+         x11))))) (* (/ x3 x18) (/ x2 x12)))) (- x22
+     x4)) x2))
+
+Generation: 43
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (+ (+ (+ (* x17
+     x27) (- x20 x10)) (- (* (* x2 x4) (* (- (+
+     (- x20 x28) (- (+ (- (+ x10 x3) (- x23 pix))
+     (/ x11 x17)) (/ (* x26 x23) (- x20 x28))))
+     (+ x20 x1)) (/ (* x25 x5) (/ x10 x21))))
+     (- x23 pix))) (+ x8 x25)) (/ x26 (* (- x23
+     pix) (* (* (/ (/ (+ (+ (* x4 x4) (/ (/ (*
+     x18 x22) x26) x7)) x24) (+ (+ (+ (+ (* x21
+     x16) x22) x12) (+ x17 x30)) (/ x10 x21)))
+     (/ x22 x21)) (* (* x2 x4) x4)) (* (- (+ x19
+     (* (* (+ x19 x10) (/ (* x25 x5) (/ x10 x21)))
+         (+ (+ (+ x19 pix) x25) x30))) (- x22 x4))
+     x28)))))) (- x22 x4)) x2))
+
+Generation: 44
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (+ (+ (+ (* x17
+     x27) (- x20 x10)) (- (* (* x2 x4) (* (- (+
+     (- x20 x28) (- (+ (- (+ x10 x3) (- x23 pix))
+     (/ x11 x17)) (/ (* x26 x23) (- x20 x28))))
+     (+ x20 x1)) (/ (* x25 x5) (/ x10 x21))))
+     (* x17 x27))) (+ x8 x25)) (/ x26 (* (- x23
+     pix) (* (* (/ (/ (+ (+ (* x4 x4) (/ (/ (*
+     x18 x22) x26) x7)) x24) (+ (+ (+ (+ (* x21
+     x16) x22) x12) (+ x17 x30)) (/ x10 x21)))
+     (/ x22 x21)) (* (* x2 x4) x4)) (* (- (+ x19
+     (* (* (+ x19 x10) (/ (* x25 x5) (/ x10 x21)))
+         (+ (+ (+ x19 pix) x25) x30))) (- x22 x4))
+     x28)))))) (- x22 x4)) x2))
+
+Generation: 45
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (+ (+ (+ (* x17
+     x27) (- x20 x10)) (- (* (* x2 x4) (* (- (+
+     (- x20 x28) (- (+ (- (+ x10 x3) (- x23 pix))
+     (/ x11 x17)) (/ (* x26 x23) (- x20 x28))))
+     (+ x28 (/ x3 x28))) (/ (* x25 x5) (/ x10
+     x21)))) (* x17 x27))) (+ x8 x25)) (/ x26
+     (* (- x23 pix) (* (* (/ (/ (+ (+ (* x4 x4)
+         (/ (/ (* x18 x22) x26) x7)) x24) (+ (+ (+
+         (+ (* x21 x16) x22) x12) (+ x17 x30)) (/
+         x10 x21))) (/ x22 x21)) (* (* x2 x4) x4))
+         (* (- (+ x19 (* (* (+ x19 x10) (/ (* x25
+             x5) (/ x10 x21))) (+ (+ (+ x19 pix) x25)
+             x30))) (- x22 x4)) x28)))))) (- x22 x4))
+     x2))
+
+Generation: 46
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (+ (+ (+ (* x17
+     x27) (- x20 x10)) (- (* (* (- x5 pix) x4)
+     x4) (- x23 pix))) (+ x8 x25)) (/ (+ x8 x25)
+     (* x28 (* (* (/ (/ (+ (+ (* x4 x4) (/ (/
+         (* x18 x22) x26) x7)) x24) (+ (+ (+ (+ (*
+         x21 x16) x22) x12) (+ (* x25 x5) x30)) (/
+         x10 x21))) (/ x22 x21)) (* (* x2 x4) x4))
+         (+ x19 (* (- (- (* (+ (- x8 x30) x3) (* x17
+             x27)) (- x12 x9)) x3) (+ (+ x18 x25) x30))))))))
+     (- x22 x4)) x2))
+
+Generation: 47
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (+ (+ (+ (* x17
+     x27) (- x20 x10)) (- (* (* (- x5 pix) x4)
+     x4) (- x23 pix))) (+ x8 x25)) (/ (+ x8 x25)
+     (* x28 (* (* (- x26 x3) (* (* x2 x4) x4))
+         (+ x19 (* (- (- (* (+ (- x8 x30) x3) (* x17
+             x27)) (- x12 x9)) x3) (+ (+ x18 x25) x30))))))))
+     (- x22 x4)) x2))
+
+Generation: 48
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (+ (+ (+ (+ x4
+     x12) (+ x7 x30)) (- (* (* (+ (- x7 x30) (*
+     (- x3 x3) (+ (- (+ x12 x29) (* x4 x4)) x30)))
+     x4) x4) (- x23 pix))) (+ x8 x25)) (/ (+ x8
+     x25) (* (- x23 pix) (* (* (/ (* x9 x28) (/
+     x22 x21)) (* (* x2 x4) x4)) (+ x19 (* (-
+     (* x25 x5) x3) (+ (+ x18 x25) x30))))))))
+     (- x22 x4)) x2))
+
+Generation: 49
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (+ (+ (+ x19 (-
+     x20 x10)) (- (* (* (- x5 pix) x4) x4) (-
+     x23 pix))) (+ x8 x25)) (/ (+ x8 x25) (* x28
+     (* (* (- x26 x3) (* (* x2 x4) x4)) (+ x19
+         (* (- (/ (* (* (/ x21 x3) (+ x25 (- x15 x25)))
+             (* x7 x25)) (* x4 x1)) x3) (+ (+ x18 x25)
+             x30)))))))) (- x22 x4)) x2))
+
+Generation: 50
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (+ (+ (+ x19 (-
+     x20 x10)) (- (* (* (- x5 pix) x4) x4) (-
+     x23 pix))) (+ x8 x25)) (/ (+ x8 x25) (* x28
+     (* (* (- x26 x3) (* (* x2 x4) x4)) (+ x19
+         (* (- (/ (* (* (/ x21 x3) (+ x25 (- x15 x25)))
+             (* x7 x25)) (* x4 x1)) x3) (+ (+ x18 x25)
+             x30)))))))) (- x22 x4)) x2))
+
+Generation: 51
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02857142857142857
+Tree 0:
+ (+ (- (+ (* (* (/ (/ x2 x12) (/ (- (- (-
+     (* (* (* x25 x5) x1) x4) (+ x28 (/ x3 x28)))
+     (/ x7 (/ x22 x21))) x3) (/ x19 (+ (/ x10
+     x21) (* (+ x10 x3) (* x17 x5)))))) (- x12
+     x17)) x4) x22) (+ x28 (/ x3 x28))) (/ (*
+     (+ x19 x10) (- x14 x18)) (/ x10 x21)))
+
+Generation: 52
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.029411764705882353
+Tree 0:
+ (/ x26 (- (* (* (- x23 pix) (* x8 (* x7 x25)))
+     (* x4 x1)) (+ x28 (/ x3 x28))))
+
+Generation: 53
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (- (- (- (* (* (- x23 pix) (* x8 (* x7 x25)))
+     (* x4 x1)) (+ x28 (/ x3 x28))) x2) x16)
+
+Generation: 54
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (- (- (- (* (* (- x23 pix) (* x8 (* x7 x25)))
+     (* x4 x1)) (+ x28 (/ x3 x28))) x2) x16)
+
+Generation: 55
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (- (/ x22 x21) (+
+     (+ x8 x25) (/ (+ x24 (+ x7 x30)) (/ x3 x28)))))
+     (- x22 x4)) x2))
+
+Generation: 56
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (/ (* (- x8 x30) (* x25
+     x9)) x7) (+ (* (- (- x3 (+ x8 x25)) x2) (-
+     x22 x4)) x25)) (/ x26 (* (/ x3 x28) (* (*
+     (/ (/ (+ (* x4 x4) (/ (/ (* x18 x22) x26)
+         x7)) x28) (/ x22 x21)) (* (+ x28 (* x17 x15))
+     x4)) (- (- x28 (* x3 x27)) x16)))))) x4)))
+
+Generation: 57
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (+ (+ (+ (* x17
+     x27) (- (/ (* (+ x12 (+ x8 x16)) (- x6 (*
+     (+ (- x7 x30) (+ x8 x25)) (/ x26 (/ (* x26
+     x23) x6))))) (* (* (- (+ (* x5 x11) (* x25
+     x5)) (+ x20 x1)) (/ (* x2 x4) (/ x10 x21)))
+     (+ (+ x1 (/ x3 x28)) x22))) (* x4 x4))) (-
+     (* (- x28 (* x3 x27)) x4) (/ (- (* (* (*
+     x25 x5) x1) x4) (+ x28 (/ x3 x28))) (/ x10
+     x21)))) (+ (- x7 x30) (* (- x3 x3) (+ (-
+     x27 (+ x28 (/ x3 x28))) x30)))) (/ x26 (*
+     (- x23 pix) (* (* x3 x27) (- (- x28 (* x3
+     x27)) x16)))))) (- x22 x4)) x2))
+
+Generation: 58
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (* (* x25 x5) x1) x4) (+ x28 (/
+     x3 x28))) (- (- (+ x19 (* (+ (+ (* (* (/
+     (/ (+ x3 x24) (+ (+ (+ x28 x25) (+ x7 x30))
+         (* x9 x30))) (+ (+ (/ x2 x12) x3) (+ x8 x25)))
+     (* x22 (- x21 x4))) (- x22 x16)) (- (* x17
+     x27) (/ (- x15 x25) (/ x10 x21)))) (+ x8
+     x25)) (/ x26 (* (- x23 pix) (* (* (/ (+ x10
+     x3) (/ x22 x21)) (* (* x2 x17) x4)) (- (+
+     (+ x28 x25) x30) x16)))))) (- x22 x4)) x2))
+
+Generation: 59
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02857142857142857
+Tree 0:
+ (+ (- (* (- x4 (- x20 x12)) (/ x10 x21))
+     (+ x28 (/ x3 x28))) (- (* (* x17 x27) (*
+     (- (/ x20 (- (- x28 (/ x3 x28)) x16)) (+
+         (* x7 (* (+ (/ pix x5) (* (- (* (* (- x23
+             pix) (* x8 (* x7 x25))) (* x4 x1)) (+ x28
+             (/ x3 x28))) (- x12 x17))) (* x9 (* (- x4
+             (- x20 x12)) (+ (+ x19 (- x22 x4)) x25)))))
+         (+ (+ (- (- x3 x3) (- x23 pix)) x25) x25)))
+     x9)) x2))
+
+Generation: 60
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.029411764705882353
+Tree 0:
+ (+ (- (+ (* (* (+ (- (- (- x28 (/ x15 x7))
+     x16) x28) (- (+ (* (* x25 x5) x1) x30) (/
+     (* x26 x23) (- (+ x28 (/ x3 x28)) x28))))
+     (- x12 x17)) x4) x22) (+ x28 (/ x3 x28)))
+     (- (- (+ (- x7 x30) (* (- x3 x3) (+ (* x2
+         x4) x30))) (- x22 x4)) (+ (* (* x17 x27)
+         (* (- (/ x20 (+ (/ x26 (* (/ x3 x28) (* (*
+             (/ (/ (+ x16 x24) (+ x8 x25)) (/ x22 x21))
+             (* (* x2 x4) x4)) (- (- x28 (* x3 x27)) x16))))
+             x19)) (+ (* x7 (* (+ (/ (* x17 x27) x5) (*
+             (/ (* (* (/ x21 x3) (+ x25 (- x15 x25)))
+                 (* x7 x25)) (* x4 x1)) (- x12 x17))) (* x9
+             x3))) (+ (+ (- (- (* (* (* x25 x5) x1) x4)
+             (+ x28 (/ x3 x28))) (+ x14 x23)) x25) x25)))
+             x9)) (* (- x3 x17) (+ x5 (+ (* (+ x19 x10)
+         (/ x26 (/ x3 x28))) (* x27 x7)))))))
+
+Generation: 61
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.029411764705882353
+Tree 0:
+ (+ (- (+ (* (* (+ (- (- (- x28 (/ x15 x7))
+     x16) x28) (- (+ (* (* x25 x5) x1) x30) (/
+     (* x26 x23) (- (+ x28 (/ x3 x28)) x28))))
+     (- x12 x17)) x4) x22) (+ x28 (/ x3 x28)))
+     (- (- (+ (- x7 x30) (* (- x3 x3) (+ (* x2
+         x4) x30))) (- x22 x4)) (+ (* (* x17 x27)
+         (* (- (/ x20 (+ (/ x26 (* (/ x3 x28) (* (*
+             (/ (/ (+ x16 x24) (+ x8 x25)) (/ x22 x21))
+             (* (* x2 x4) x4)) (- (- x28 (* x3 x27)) x16))))
+             x19)) (+ (* x7 (* (+ (/ (* x17 x27) x5) (*
+             (/ (* (* (/ x21 x3) (+ x25 (- x15 x25)))
+                 (* x7 x25)) (* x4 x1)) (- x12 x17))) (* x9
+             x3))) (+ (+ (- (- (* (* (* x25 x5) x1) x4)
+             (+ x28 (/ x3 x28))) (+ x14 x23)) x25) x25)))
+             x9)) (* (- x3 x17) (+ x5 (+ (* (+ x19 x10)
+         (/ x26 (/ x3 x28))) (* x27 x7)))))))
+
+Generation: 62
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.029411764705882353
+Tree 0:
+ (+ (- (+ (* (* (+ (- (- (- x28 (/ x15 x7))
+     x16) x28) (- (+ (* (* x25 x5) x1) x30) (/
+     (* x26 x23) (- (+ x28 (/ x3 x28)) x28))))
+     (- x12 x17)) x4) x22) (+ x28 (/ x3 x28)))
+     (- (- (+ (- x7 x30) (* (- x3 x3) (+ (* x2
+         x4) x30))) (- x22 x4)) (+ (* (* x17 x27)
+         (* (- (/ x20 (+ (/ x26 (* (/ x3 x28) (* (*
+             (/ (/ (+ x16 x24) (+ x8 x25)) (/ x22 x21))
+             (* (* x2 x4) x4)) (- (- x28 x23) x16))))
+             x19)) (+ (* x7 (* (+ (/ (* x17 x27) x5) (*
+             (/ (* (* (/ x21 x3) (+ x25 (- x15 x25)))
+                 (* x7 x25)) (* x4 x1)) (- x12 x17))) (* x9
+             x3))) (+ (+ (- (- (* (* (* x25 x5) x1) x4)
+             (+ x28 (/ x3 x28))) (+ x14 x23)) x25) x25)))
+             x9)) (* (- x3 x17) (+ x5 (+ (* (+ x19 x10)
+         (/ x26 (/ x3 x28))) (* x27 x7)))))))
+
+Generation: 63
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.029411764705882353
+Tree 0:
+ (+ (- (+ (* (* (+ (- (- (- x28 (/ x15 x7))
+     x16) x28) (- (+ (* (* x25 x5) x1) x30) (/
+     (* x26 x23) (- (+ x28 (/ x3 x28)) x28))))
+     (- x12 x17)) x4) x22) (+ x28 (/ x3 x28)))
+     (- (- (+ (- x7 x30) (* (- x3 x3) (+ (* x2
+         x4) x30))) (- x22 x4)) (+ (* (* x17 x27)
+         (* (- (/ x20 (+ (/ x26 (* (/ x3 x28) (* (*
+             (/ (/ (+ x16 x24) (+ x8 x25)) (/ x22 x21))
+             (* (* x2 x4) x4)) (- (- x28 x23) x16))))
+             x19)) (+ x24 (+ (+ (- (- (* (* (* x25 x5)
+             x1) x4) (+ x28 (/ x3 x28))) (+ x14 x23))
+             x25) x25))) x9)) (* (- x3 x17) (+ x5 (+ (*
+         (+ x19 x10) (/ x26 (/ x3 x28))) (* x27 x7)))))))
+
+Generation: 64
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (/ (* (* x4 x1) (* x7
+     x25)) x3) (+ (* (- (- (+ x4 (* x25 x5)) (-
+     x22 x4)) x2) (* (* (* x14 x24) (* (* x24
+     x4) x4)) (- (+ x7 x30) x16))) x25)) (/ x26
+     (* (/ x3 x28) (* (* (/ (/ (+ x14 x23) (+
+         x8 x25)) (/ x22 (+ x28 (/ x3 x28)))) (* (*
+         x2 x4) x4)) (- (- x28 (* x3 x27)) x16))))))
+     x4)))
+
+Generation: 65
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (-
+     x6 (* (+ (+ (+ (- x27 (+ x28 (+ x28 (/ x3
+     x28)))) (* x4 x4)) (/ (* (* (- (* x27 x21)
+     x29) (+ x25 (- x15 x25))) (- x28 (/ x6 x21)))
+     (* x4 x1))) (* (* x2 x4) x4)) (/ x26 (* (/
+     x3 x28) (* (* (/ (/ (+ (+ (- (* x17 x27)
+     (/ (* x27 x7) (* x28 x28))) (+ x8 x16)) x24)
+     (+ (+ (+ (+ (* x21 x16) x22) x12) (+ x28
+         x25)) (/ x10 x21))) (/ (* x25 x9) (/ x2 (-
+     (+ (* x27 x17) x22) (+ (+ x4 x12) (+ x4 x12))))))
+     (* (/ (- x20 x28) x12) x4)) (/ x3 x28))))))
+     x4)))
+
+Generation: 66
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- (* (- (- x14 x18) (- x20 x12)) (/ (+
+     x22 (* x26 x23)) (+ (+ (+ (+ (/ x6 x28) x22)
+     x12) (+ (* x25 x5) x30)) (/ x10 x21)))) (+
+     x28 (+ x28 (/ x3 x28)))) (- x21 (- (- x6
+     (* (+ (+ (+ x28 (/ x3 x28)) (+ x8 x25)) (+
+         (* (- (- (/ (- (* (- x23 pix) (+ (+ pix x15)
+             x7)) (+ (* x25 x9) (/ x6 x21))) (* (+ (-
+             x27 (/ (* x26 x23) (- x20 x28))) x16) x5))
+             (- x22 x4)) x2) (* (* x2 x4) x4)) x25)) (/
+         x26 (* (- (/ x24 (* x27 x7)) x30) (* (* (/
+         (/ (+ (+ (+ (+ x28 (/ x3 x28)) (- x7 x11))
+             x22) x24) (+ (+ (+ x3 x22) (+ x7 x30)) (/
+             x10 x21))) (/ x22 x21)) (* x23 x4)) (- (-
+         x28 (* x3 x27)) x16)))))) x4)))
+
+Generation: 67
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (-
+     x6 (* (+ (+ x25 (+ (- x20 x28) (- (+ (- (+
+     x10 x3) (* x17 x27)) (- (/ x3 x28) (/ x6
+     x27))) x25))) (+ (* (- (- (+ x4 (* x25 x5))
+     (- x22 x4)) x2) (* (* (* x14 x24) (* (* x2
+     x4) x4)) (/ x2 x12))) x25)) (/ x26 (* (/
+     x3 x28) (* (* (/ (/ (+ (+ (+ x1 (- x7 x11))
+     x22) x24) (+ x28 (/ x3 x28))) (/ x22 x21))
+     (* (* x2 x4) x4)) (- (+ (/ x28 x16) (+ (-
+     x20 x28) (- (+ (- x28 (/ x15 x7)) (/ (* x4
+     x4) x17)) (/ (* x26 x23) (- (+ x28 (/ x3
+     x28)) x28))))) x16)))))) x4)))
+
+Generation: 68
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (/ x26 (- (/ (*
+     (/ x23 x16) (/ x1 x2)) (* (* (- x22 x4) x4)
+     x4)) (+ x28 (/ x3 x28)))) (/ x1 x14)) (+
+     (- x20 x28) (- (+ (- (+ x10 x3) (- x23 pix))
+     (- x27 x2)) (/ (* x26 x23) (* (/ (- x23 pix)
+     (- x2 pix)) (- (- x18 x15) (* x3 x27)))))))
+     (+ (* x3 (* (* (* x14 x24) (* (* x2 x4) x4))
+         (- (+ x7 x30) x16))) x25)) (/ x26 (* (/ x3
+     x28) (* (* (/ (/ (+ (+ x28 (* (- x3 x3) (*
+     x25 x5))) x24) (+ (+ (+ x28 x22) (* (* x25
+     x5) x1)) (/ x10 x21))) x2) (/ (* (/ (- x21
+     x3) (- x17 x12)) x23) (- x20 x28))) (- (-
+     x28 (/ x3 x28)) x16)))))) x4)))
+
+Generation: 69
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (- (* x8 (- x22 x4)) (- (/
+     x10 x21) (+ (- (+ x11 x14) (+ x14 x23)) (/
+     x6 x21)))) (/ x26 (* (/ x3 x28) (* (+ (/
+     (* (+ x19 x10) (+ (- x20 x10) (* (- x23 pix)
+         (+ (/ (- x8 pix) x20) x7)))) (* x4 x4)) (-
+     x20 x10)) (- (- x28 (* x3 x27)) x16))))))
+     x4)))
+
+Generation: 70
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (- x7 (- x20 x12))
+     (/ x1 x14)) (+ (- x20 x28) (- (* x25 x5)
+     (/ (* x26 (* x9 x30)) (- x20 (- x28 (+ (*
+         (* x2 x4) x4) (+ x21 x2)))))))) (+ (* x3
+     (* (* (* x14 x24) (* (* x2 x4) x4)) (- (+
+         x7 x30) x16))) x25)) (/ x26 (* (/ x3 x28)
+     (* (* (/ (/ (+ (+ (/ x1 x2) (+ x8 x16)) x24)
+         (+ (+ (+ x28 x22) (* (* x25 (/ x6 x6)) x1))
+             (/ x10 x21))) x2) (* (* x2 x4) x4)) (- (-
+         x28 (/ x3 x28)) x16)))))) x4)))
+
+Generation: 71
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (* (* (/ (* (/ (+ x28 (/ x3 x28)) (+
+     (+ (/ x3 x28) x16) x29)) (- x12 x17)) (/
+     (- x26 (+ (- (- (* (- (/ x3 x28) x2) (+ x10
+         x3)) (- (/ x3 x28) (/ x6 x27))) (+ (+ (+
+         x12 x14) (* x3 x27)) (+ x17 x30))) (+ x7
+         x30))) (- x17 x12))) x9) x4) (+ x28 (/ x3
+     x28))) (- (- (+ x19 (- (* (- x23 pix) x28)
+     (+ (- (+ x11 x14) (+ x14 x23)) (/ (* x2 x4)
+         (/ x3 x28))))) (- x22 x4)) x2))
+
+Generation: 72
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (+ (- (+ (* x17
+     x27) (/ x7 x1)) (- x23 pix)) (- x27 (+ x11
+     x14))) (/ x1 x14)) (+ (- x20 x28) (- (+ x25
+     (+ x7 x30)) (/ (* x26 x23) (- x20 x28)))))
+     (+ (* x3 (* (* (* x14 x24) (* (* x2 x4) x4))
+         (- (+ x7 x30) x16))) x25)) (/ x26 (* (/ x3
+     x28) (* (* (/ (/ (+ (+ (/ x1 x2) (+ x8 x16))
+     x24) (+ (+ (+ x28 x22) (* (* x25 (/ x6 x6))
+     x1)) (/ x10 x21))) x2) (* (* x2 x4) x4))
+     (- (- x28 (/ x3 x28)) x16)))))) x4)))
+
+Generation: 73
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (-
+     x6 (* (+ (+ (+ (* x14 x24) (+ (+ x4 x12)
+     (+ (* (* x2 x4) x4) (- x20 x10)))) (* (-
+     x20 x10) (* (* (/ (/ (+ x3 x24) (+ (+ (+
+     x28 (+ x11 x14)) (+ x7 x30)) (* x9 x30)))
+     (+ (* (/ x7 x1) (* x3 x27)) (* (+ x10 x3)
+         (* x17 x27)))) (* x22 (- x28 x24))) (- x22
+     x16)))) (- (/ x3 (* (* (- (+ (- x27 (+ x28
+     (/ x3 x28))) (* x2 x4)) (+ (* x9 (* (- (*
+     x27 x21) x29) (/ x10 x21))) (* x20 x18)))
+     (/ (+ (/ x4 x2) (+ (* x25 x28) x30)) (/ x10
+         x21))) (/ (- x28 (/ (+ (+ x4 x12) (+ x7 x30))
+     x7)) (- (* (+ x28 (+ x28 (+ x28 (/ x3 x28))))
+     x5) (+ x10 x3))))) (+ x9 x25))) (/ x26 (-
+     (* (* (/ x3 x28) (* x8 (- x22 x4))) (* x4
+         x1)) (+ x28 (/ x3 x28)))))) x4)))
+
+Generation: 74
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (-
+     x6 (* (+ (+ (+ (* (+ (* x4 x4) (/ (/ (* x14
+     x24) x26) x7)) x27) (+ (+ x4 x12) (+ (* (*
+     x2 x4) (* x2 x4)) (- x20 x10)))) (+ x25 x22))
+     (+ x6 (* (- x20 x10) (* (* (/ (/ (+ x3 x24)
+         x6) (+ (+ (/ x2 x12) x3) (+ (+ (+ x28 x22)
+         x22) x12))) (* x22 (- x21 x4))) (- x22 x16)))))
+     (/ x26 (- (* (* (/ x3 x28) (* x8 (- x22 x4)))
+         (* x4 x1)) (+ x28 (* x21 x16)))))) x4)))
+
+Generation: 75
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (- (+ x19 (- (*
+     (- x23 (+ (* (* x3 x27) (* x3 x27)) (* (+
+         x10 x3) (* x17 x27)))) x28) (+ (- (+ x11
+     x14) (+ x14 x23)) (/ (/ x3 x28) (/ x3 x28)))))
+     (* (- (- x28 (/ x15 x7)) x16) (/ x1 x2)))
+     (/ x1 x14)) (+ (- (+ x11 x14) (- (- (- x28
+     (/ x15 x7)) x16) (/ (* x26 x23) (- x20 x28))))
+     (/ (+ x24 (/ x26 (- (* (* x9 (- x2 pix))
+         (+ x28 (+ x24 (* x25 x5)))) (+ x28 (/ x3
+         x28))))) (/ x3 x28)))) (+ (* x3 (* (* (*
+     x14 x24) (* (* x2 x4) x4)) (- (+ x7 x30)
+     x16))) x25)) (/ x26 (* (/ x3 x28) (* (* (/
+     (/ (+ (+ (/ x1 x2) (+ x8 x16)) x24) (+ (+
+         (+ x28 x22) (* (* x25 (/ x6 x6)) x1)) (/
+         x10 x21))) x2) (* (* x2 x4) x4)) (- (- x28
+     (/ x3 x28)) x16)))))) x4)))
+
+Generation: 76
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (-
+     x6 (* (+ (+ (+ (* x14 x24) (+ (+ x4 x12)
+     (+ (* (+ (- (* x22 x18) (- x22 x4)) (+ x11
+         x14)) x4) (- x20 x10)))) x4) (- (/ x3 (-
+     x27 (+ x28 (+ x28 (/ x3 x28))))) (+ x9 x25)))
+     (/ x26 (- (* (* (/ x3 x28) (* x8 (- x22 x4)))
+         (* x4 x1)) (+ x28 (/ x3 x28)))))) x4)))
+
+Generation: 77
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (/ x22 x21) (+ x28 (+ x28 (/ x3 x28))))
+     (- x21 (- (- x6 (* (+ (+ (+ (* (* x2 x4)
+         x4) (* x4 (+ (/ x3 x28) x30))) (- (* (* x2
+         x4) x4) pix)) (+ x14 x25)) (/ x26 (* (- (/
+         x24 (* x27 x7)) x30) (* (* (/ (+ x28 x25)
+         (/ x22 x21)) (* (* (+ x8 x16) x4) x4)) (-
+         (- x28 (* x3 x27)) x16)))))) x4)))
+
+Generation: 78
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- x27 (+ (/ x2 (- (* (- x24 (- x4 (-
+     x22 x4))) (+ x7 x30)) x11)) (/ x3 x28)))
+     (- x21 (- (- x6 (* (+ (+ (+ (* x14 x24) (-
+         (- (/ (- (* x9 x30) (+ x7 x30)) (/ x12 x15))
+             (- x22 x4)) x2)) (* (- x20 (+ x2 x22)) (*
+         (* (/ (/ (+ x3 x24) (+ (+ x28 x4) (* x9 x30)))
+             (+ (+ (/ x2 x12) x3) (- (* x9 x30) (+ x7
+                 x30)))) (* x22 (- x21 x4))) (- x22 x16))))
+         (+ x19 (* (- x3 x3) (+ (- (/ (* (- x27 (+
+             x28 (+ x28 (/ x3 x28)))) (/ x20 (* (- x22
+             x4) x4))) (* x8 (- x22 x4))) (* x4 x4)) x30))))
+         (/ x26 (- (* (* (/ x3 x28) (* x8 x8)) (*
+             x4 x1)) (+ x28 (/ x3 x28)))))) x4)))
+
+Generation: 79
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ (/ x2 (- (* x26 (* x8 (- x22
+     x4))) x11)) (/ x3 x28))) (- x21 (- (- x6
+     (* (+ (+ (+ (* x14 x24) (+ (+ (* x14 x24)
+         (+ (* x2 x4) (+ (* (* x2 x4) x4) (- x20 x10))))
+         (+ (* x17 x27) (+ x14 x23)))) (* (- x20 (+
+         (- x23 (/ x22 x21)) x22)) (* (* (/ (/ (+
+         x3 x24) (+ (+ (+ x28 x25) (+ (* x3 x27) x30))
+         (* x9 x30))) (+ (+ (/ x2 x12) x3) (+ (- (+
+         x10 x3) (* (* x17 x27) x4)) x22))) (* x22
+         (- x21 x4))) (- x22 x16)))) (+ x19 (* (-
+         x3 x3) (+ (- (/ (* (- x27 (+ x28 (+ x28 (/
+         x3 x28)))) (/ x20 (* (+ x11 x14) x4))) (*
+         x8 (- x22 x4))) (- x22 x4)) x30)))) (/ x26
+         (- (* (* (/ x3 x28) (* x8 (- x22 x4))) (*
+             x4 x1)) (+ x28 (/ x3 x28)))))) x4)))
+
+Generation: 80
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- x27 (+ (/ x2 (- (* (- x24 (- x4 (-
+     x22 x4))) (/ x6 x21)) x11)) (/ x3 x28)))
+     (- x21 (- (- x6 (* (+ (+ (+ (* x14 x24) (-
+         (- (/ (- (* x9 x30) (* x27 x7)) (/ (- (+
+             (/ x1 x2) (+ x8 x16)) x3) x15)) (- x22 x4))
+         x2)) (* (- x20 (+ (* x21 x16) x22)) (* (*
+         (/ (/ (+ (/ x1 x2) (+ x8 x16)) (+ (+ (+ x28
+             x25) x10) (* x9 x30))) (+ (+ (/ x2 x12) x3)
+             (/ (/ x3 x28) x28))) (* (+ (* x21 x16) x22)
+         (- x21 x4))) (+ x28 (/ x3 x28))))) (/ x15
+         x7)) (/ x26 (- (* (* (/ x3 x28) (* x8 (-
+         x22 x4))) (- x5 pix)) (+ x28 (/ x3 x28))))))
+         x4)))
+
+Generation: 81
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (+ (+ x28 x25) (+
+     x7 x30)) (* x9 x30)) (- (* (* x2 x4) x4)
+     pix)) (+ (* (- x11 x2) (+ (* (- (- x14 x18)
+     (- x20 x10)) (/ (+ x22 (* x26 x23)) (+ (+
+     (+ x14 x23) x16) (/ x10 x21)))) (- (+ (-
+     (+ x10 (+ x28 (+ x28 (/ x3 x28)))) (* x17
+     x27)) (- (/ x3 x28) (/ x6 x27))) x25))) x25))
+     (/ (- x23 (+ (/ (/ x3 x28) x28) (* (/ (*
+         (- (+ x28 (* (- x3 x3) (* x25 x5))) x16)
+         (/ x1 x2)) (* (* (- x22 x4) x4) x4)) (- x22
+         x4)))) (* (- (/ x24 (* x27 x7)) x30) (* (*
+         (/ (/ (+ x4 x24) (* x5 (* (+ x10 x3) (- (+
+             (* x21 x16) x22) x16)))) (/ x22 x21)) (*
+         (* (+ x27 x15) x4) x4)) (- (- x28 (* x3 x27))
+         x16)))))) x4)))
+
+Generation: 82
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.027777777777777776
+Tree 0:
+ (+ (- x27 (+ (/ x2 (- (* (- x24 (- x4 (-
+     x22 x4))) (+ x7 x30)) x11)) (/ x3 x28)))
+     (- x21 (- (- x6 (* (+ (+ (- x28 (/ x3 x28))
+         (* (- x20 (+ x2 x22)) (* (* (/ (/ (+ x3 x24)
+             (+ (+ x28 x4) (* x9 x30))) (+ (+ (/ x2 x12)
+             x3) (- x27 (+ x28 (+ (/ x1 x2) (+ x8 x16))))))
+             (* x22 (- x21 x4))) (- x22 x16)))) (+ x19
+         (* (- x3 x3) (+ (- (/ (* (- x27 x25) (/ x20
+             (* (- x22 x4) x4))) (* x8 (- x22 x4))) (*
+             x4 x4)) x30)))) (/ x26 (- (* (* (/ x3 x28)
+         (* x8 x8)) (* x4 x1)) (+ x28 (/ x3 x28))))))
+         x4)))
+
+Generation: 83
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (/
+     x24 (/ x3 x28)) x4)))
+
+Generation: 84
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (+ (+ x28 x25) (+
+     x7 x30)) (* x9 x30)) (- (* (* x2 x4) x4)
+     pix)) (+ x8 x25)) (/ (- x23 (+ (* (/ x7 x1)
+     (* x3 x27)) (* (/ (* (- (+ x28 (* (- x3 x3)
+     (* x25 x5))) x16) (/ x1 x2)) (* (* (- x22
+     x4) x4) x4)) (* x17 x27)))) (* (- (/ x24
+     (* x27 x7)) x30) (* (* (/ (/ (+ (+ (+ x1
+     (- x7 x11)) x22) x24) (* x5 (* (+ x10 x3)
+     (- (/ x2 (- x2 pix)) x16)))) (/ x22 x21))
+     (* (/ x3 x28) x4)) (- (- x28 (* x3 x27))
+     x16)))))) x4)))
+
+Generation: 85
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02857142857142857
+Tree 0:
+ (+ (- (* (- (- x14 x18) (- x20 x12)) (/ (+
+     x22 (- (* x22 (* (/ (/ (+ x3 x24) (+ (+ (+
+     x28 x25) (+ x7 x30)) (* x9 x30))) (+ (+ (/
+     x2 x12) x3) (- (+ x19 (- (/ x28 x16) (+ x28
+     x25))) (- x22 x4)))) (/ (* (+ x10 (* x2 x4))
+     (* (- x3 x17) (+ x28 (/ x3 x28)))) (/ x19
+     x1)))) (+ x28 (/ x3 (- x20 x28))))) (+ (+
+     (+ (+ (+ (/ x26 (- (* (* (- x23 pix) (* x8
+         (* x7 x25))) (* x4 x1)) (+ x28 (/ x3 x28))))
+         (/ x1 x14)) (+ (* x17 x27) (- (- x22 x4)
+         (/ x29 (- x20 x28))))) (+ (* x3 (- (* (*
+         (- x23 pix) (* x8 (* x7 x25))) (* x4 x1))
+         (+ x28 (/ x3 x28)))) x25)) (+ (* x25 x5)
+     x30)) (/ x10 x21)))) (+ x28 (+ x28 (/ x3
+     x28)))) (- x21 (- (- x6 (* (+ (+ (+ x28 (-
+     x20 x10)) (- (* x25 x4) (- x23 pix))) (+
+     (* (/ (- (* x9 x30) (+ x7 x30)) (/ x12 x15))
+         (* (* (- (+ (+ (+ x3 x22) x22) x22) (+ x28
+             (- (- x28 (* x3 x27)) x16))) (* (* x2 x4)
+             x4)) (- (+ x7 x30) x16))) x25)) (/ x26 (*
+     (- (/ x24 (* x27 x7)) x30) (* (* (/ (/ (+
+     (+ (+ x1 (- x7 x11)) x22) x24) (+ (+ (+ x3
+     x22) (+ x7 x30)) (/ x10 x21))) (/ x22 x21))
+     (* x23 x4)) (- (- x28 (* x3 x27)) x16))))))
+     x4)))
+
+Generation: 86
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02857142857142857
+Tree 0:
+ (+ (- (* (- (- x14 x18) (- x20 x12)) (/ (+
+     x22 (- (* x22 (* (/ (/ (+ x3 x24) (+ (+ (+
+     x28 x25) (* x17 x27)) (* x9 x30))) (+ (+
+     (/ x2 x12) x3) (- (+ x19 (- (/ x28 x16) (+
+     x28 x25))) (- x22 x4)))) (/ (* (+ x10 (*
+     x2 x4)) (* (- x3 x17) (+ x28 (/ x3 x28))))
+     (/ x19 x1)))) (+ x28 (/ x3 (- x20 x28)))))
+     (+ (+ (+ (+ (+ (/ x26 (- (* (* (- x23 pix)
+         (* x8 (* x7 x25))) (* x4 x1)) (+ x28 (/ x3
+         x28)))) (/ x1 x14)) (+ (* x17 x27) (- (-
+         x22 x4) (/ x29 (- x20 x28))))) (+ (* x3 (-
+         (* (* (- x23 pix) (* x8 (* x7 x25))) (* x4
+             x1)) (+ x28 (/ x3 x28)))) x25)) (+ (* x25
+         x5) x30)) (/ x10 x21)))) (+ x28 (+ x28 (/
+     x3 x28)))) (- x21 (- (- x6 (* (+ (+ (+ x28
+     (- x20 x10)) (- (* x25 x4) (- x23 pix)))
+     (+ (* (/ (- (* x9 x30) (+ x7 x30)) (/ x12
+         x15)) (* (* (- (+ (+ (+ x3 x22) x22) x22)
+         (+ x28 (- (- x28 (* x3 x27)) x16))) (* (*
+         x2 x4) x4)) (- (+ x7 x30) x16))) x25)) (/
+     x26 (* (- (/ x24 (* x27 x7)) x30) (* (* (/
+     (/ (+ (+ (+ x1 (- x7 x11)) x22) x24) (+ (+
+         (+ x3 x22) (+ x7 x30)) (/ x10 x21))) (/ x22
+     x21)) (* x23 x4)) (- (- x28 (* x3 x27)) x16))))))
+     x4)))
+
+Generation: 87
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (* (+ (* x4 x4)
+     (/ x3 x7)) x27) (+ (+ x4 x12) (+ (* (* x2
+     x4) (* x2 x4)) (- (+ x19 (- (* (- x23 pix)
+     x28) (+ (- (+ x11 x14) (+ x14 x23)) (/ (*
+     x2 x4) (/ x3 x28))))) (* x2 x4))))) (* (-
+     x20 x10) (* (* (- x21 x4) (* x22 (- x21 x4)))
+     (- x22 x16)))) (* x27 x7)) (/ x26 (- (* (*
+     (/ x3 x28) (* x8 (- x22 x4))) (* x4 x1))
+     (+ x28 (* x21 x16)))))) x4)))
+
+Generation: 88
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (/
+     (+ x24 (/ (+ x8 x16) (+ (- (- (/ (+ x28 (-
+         x7 x11)) (/ x23 x16)) (* (- (+ x3 x22) (-
+         x4 (- x22 x4))) (+ x7 x30))) (+ x27 (+ x17
+         x30))) (- (- (- x28 (+ (- x20 x28) (+ x21
+         x2))) x1) (/ (- (+ (+ x27 x15) x3) (/ (-
+         (/ x2 (- x2 pix)) x16) (- x30 x10))) (* x14
+         x5)))))) (/ x3 x28)) x4)))
+
+Generation: 89
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (-
+     x6 (* (+ (+ (+ (* x14 x24) (+ (+ x4 x12)
+     (+ (* (* x2 x4) x4) (- x20 x10)))) (* (-
+     (+ x19 (+ x28 (/ x3 x28))) (+ x28 (/ x3 x28)))
+     (- (/ (- (* x9 x30) (* x27 x7)) (/ (- x26
+         x3) x15)) (+ x28 (/ x3 x28))))) (- (/ x3
+     (* (* (- (+ (- x27 (+ x28 (/ x3 x28))) (*
+         x2 x4)) (+ (* x9 (* (- (* x27 x21) x29) (/
+         x10 x21))) (+ x11 x14))) (/ (+ (/ x4 x2)
+         (+ (* x25 x28) x30)) (/ x10 x21))) (/ (-
+         x28 (/ (+ (+ x28 (/ x3 x28)) (+ x7 x30))
+         x7)) (- (* (+ x28 (+ x28 (+ x28 (/ x3 x28))))
+         x5) (+ x4 x12))))) (+ x9 x25))) (/ x26 (-
+     (* (* (/ x3 x28) (* x8 (- x22 x4))) (/ x3
+         x28)) (+ x28 (/ x3 x28)))))) x4)))
+
+Generation: 90
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (+ (- (- x6 (+ x19
+     (* x4 (+ (- (* x27 x7) (* x4 x4)) x30))))
+     x4) (+ x7 x30)) (- x27 (+ x28 (/ x3 x28))))
+     (- (* (* x2 x4) x4) pix)) (+ (* x21 (+ (*
+     (- (- x14 x18) (- x20 x10)) (/ (+ x22 (*
+     x26 x23)) (* x17 x27))) (* x5 (* (+ x10 x3)
+     (- (+ (* x21 x16) x22) x16))))) x25)) (/
+     (- x23 (+ (* (- (* x27 x21) x27) (+ (* x17
+         x27) x23)) x3)) (* (- (/ x24 (/ x15 x7))
+     x30) (* (* (/ (/ (+ x4 x24) (* x5 (* (+ x10
+     x3) (- (+ (* x21 x16) x22) x16)))) (+ (+
+     x28 x25) (+ x21 x2))) (* (/ x3 x28) x4))
+     (- (- x28 (* x3 x27)) x16)))))) x4)))
+
+Generation: 91
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (* (* (- (* x3 (+ (-
+     x22 x4) (+ (+ x12 x14) x2))) (+ (* x9 (+
+     x28 (/ x3 x28))) (* x20 x18))) (/ (/ x3 x18)
+     (/ x10 x21))) (/ (- x28 (/ x15 x7)) (- (*
+     (+ x28 (+ x28 (/ x3 x28))) x4) (+ x10 x3))))
+     (* (- x20 x10) (* (* (+ (+ x27 x15) x3) (*
+         x22 (- x21 x4))) (- x22 x16)))) (- x22 x4))
+     (/ x26 (- (* (* (* (* x14 x24) (* (- x18
+         x25) x4)) (* x8 (- x22 x4))) (* x4 x1)) (+
+         x28 (* x21 x16)))))) x4)))
+
+Generation: 92
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (-
+     x6 (* (+ (+ (+ x25 (+ x5 (+ (* (* x2 x4)
+     (* x2 x4)) (* x9 x30)))) (* (- x20 x10) (-
+     x22 x4))) (+ x19 (/ x3 x28))) (/ x26 (- (*
+     (* (- (- (- x6 (* x8 (- x22 x4))) x4) (+
+         x2 x24)) (* x8 (- x22 x4))) (* x4 x1)) x4))))
+     x4)))
+
+Generation: 93
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (* (* (/ (* (/ (* x25 x9) (+ (+ (-
+     (/ x1 x14) (/ (/ x3 x28) (- (+ (- (+ x10
+     x3) (- x28 (* x3 x27))) x4) x25))) x16) x29))
+     (- x12 x17)) (/ (- x26 (+ (- (- (* (/ x3
+     x28) (* x14 x24)) (/ x3 x28)) (+ (- x22 x4)
+     (+ x28 (+ x28 x7)))) (- (- (- x28 (/ x3 x28))
+     (/ x26 x8)) (/ (- (/ x3 x28) (+ (- (+ x11
+     x14) (+ (+ x1 (- x7 x11)) x22)) (/ x6 x3)))
+     (* (+ x19 x14) x5))))) (- (- x28 (+ (+ (-
+     (+ x11 x14) (+ x14 x23)) (/ x4 (/ x3 x28)))
+     (+ x21 x2))) (/ (* x4 x4) (- x20 (- x28 (+
+     (* (* x2 x4) x4) (+ x21 x2)))))))) x9) x4)
+     (+ x28 (/ x3 x28))) (- (- (+ x19 (- (* (-
+     x23 pix) x28) (+ (- (+ x11 x14) (+ x14 x23))
+     (/ (* x2 x4) (/ x3 x28))))) (- x22 x4)) x2))
+
+Generation: 94
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- (* (+ (- x27 (+ x28 (/ x3 x28))) (-
+     x21 (- (/ (+ x24 (/ x26 (* x8 (* (* (- x27
+     (+ x28 (- x28 (* x3 x27)))) x24) (* (* x2
+     x4) x4))))) (/ x3 x28)) x4))) x4) (+ x28
+     (/ x3 x28))) (- (- (+ x19 (- (* (- x23 pix)
+     x28) (+ (- (+ x11 x14) (+ x14 x23)) (/ (*
+     x2 x4) (/ x3 x28))))) (- x22 x4)) x2))
+
+Generation: 95
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (- x28 (/ (+ (+ x4
+     x12) (- x27 (+ x28 (/ x3 x28)))) x7)) (-
+     (/ x3 x28) pix)) (+ (* (- x11 x2) (+ (* (-
+     (- x14 x18) (- x20 x10)) (/ (+ x22 (* x26
+     x23)) (- (* (* (/ x3 x28) (* x8 (- x22 x4)))
+     (- x22 x4)) (+ (- (+ (* x25 x5) x30) (/ x6
+     x27)) (/ x3 x28))))) (- (+ (- (+ x10 x3)
+     (* x17 x27)) (- (/ x3 x28) (/ x6 (* x8 (-
+     x22 x4))))) x25))) x25)) (/ (- x23 (+ (*
+     (/ (- x26 x3) x15) (+ (* x17 x27) x23)) (*
+     (/ (/ x3 x28) (* (* (+ x3 x24) x4) x4)) (*
+     x17 x27)))) (* (- (/ x24 (* x27 x7)) x30)
+     (* (* (/ (/ (+ (+ (/ x4 x2) (+ x10 x3)) x24)
+         (* x5 (* (+ x10 x3) (- (+ (* x21 x16) x22)
+             x16)))) (/ x22 x21)) (* (* (+ x27 x15) x4)
+         x4)) (- (- x28 (* x3 x27)) (+ x8 x25)))))))
+     x4)))
+
+Generation: 96
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ (/ x2 (- (* x26 (* x8 (* (/
+     (/ (+ (* (- (/ x24 (* x27 x7)) x30) (* (*
+         (* (/ x3 x18) x5) (* (/ x3 x28) x4)) (- (-
+         x28 (* x3 x27)) x16))) x24) (- x7 x11)) x2)
+     (* (* x2 (- x22 x4)) x4)))) x11)) (/ x3 x28)))
+     (- x21 (- (- x6 (* (+ (+ (+ (/ x26 (- (/
+         (* (/ x23 x16) (/ x1 x2)) (/ x20 x23)) (+
+         x28 (/ x3 x28)))) (/ x3 x28)) (* (- x20 (+
+         (- x23 (+ x28 x28)) x22)) (* (* (/ (/ (+
+         x3 x24) (+ (+ (+ x28 x25) (* (- x3 x17) x6))
+         (* x9 x30))) (+ (+ (/ x2 x12) x3) (- (+ x19
+         (* x25 x5)) (- x27 (+ x28 (/ x3 x28))))))
+         (* x22 (- x21 x4))) (- x22 x16)))) (+ x19
+         (* (- x3 x3) (/ x6 x27)))) (/ x26 (- (* (*
+         (/ x3 x28) (* x8 (- x22 x4))) (* (* (/ (/
+         (+ x3 x24) (+ (+ (+ x28 x20) (+ x7 x30))
+         (* (- (- x14 x18) (- x20 x10)) x30))) (+
+         (+ x21 x3) (- x28 (* x3 x27)))) (* x22 (-
+         x21 x4))) (- x22 x16))) (+ x28 (/ x3 x28))))))
+         x4)))
+
+Generation: 97
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.02702702702702703
+Tree 0:
+ (+ (- x27 (+ x28 (/ x3 x28))) (- x21 (- (/
+     (+ x24 (/ x26 (+ (- x17 (+ (+ x28 (/ x3 x28))
+         (+ x28 (/ x3 x28)))) (- (- (/ (/ x3 x28)
+         (+ (* x25 x5) (* (+ x10 x3) (- (- x28 (*
+             x3 x27)) x16)))) (/ (+ pix x15) (- x30 x10)))
+         (/ (* x14 x24) (+ x4 x12)))))) (/ x3 x28))
+     x4)))
+
+Generation: 98
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.029411764705882353
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (+ x2 x24) (- x20
+     x10)) (- (- x27 (+ x28 (+ x28 (/ x3 x28))))
+     pix)) (+ (* (+ (* x14 x24) (+ x28 (+ x28
+     (/ x3 x28)))) (+ (* (+ x28 (/ x3 x28)) (/
+     (/ x3 x28) (- x4 (- x20 x12)))) x20)) x25))
+     (/ (- x23 (+ (* (- (* x27 x21) x27) (+ (*
+         x17 x27) x23)) (* (/ (* (- (+ x28 (* (- x3
+         x3) (* x25 x5))) x16) (/ x1 x2)) (* (/ x15
+         x7) x4)) (* x17 x27)))) (* (/ x3 x28) (*
+         (* (/ x30 (/ x22 x21)) (* (* (+ x27 x15)
+             x4) x4)) (- (- x28 (* x3 x27)) x16))))))
+     x4)))
+
+Generation: 99
+Best Individual:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.029411764705882353
+Tree 0:
+ (+ (- x27 (+ x28 (+ x28 (/ x3 x28)))) (-
+     x21 (- (- x6 (* (+ (+ (+ (+ x2 x24) (- x20
+     x10)) (- (- x27 (+ x28 (+ x28 (/ x3 x28))))
+     pix)) (+ (* (+ (* x14 x24) (+ x28 (+ x28
+     (/ x3 x28)))) (+ (* (+ x28 (/ x3 x28)) (/
+     (/ x3 x28) (- x4 (- x20 x12)))) x20)) x25))
+     (/ (- x23 (+ (* (- (* x27 x21) x27) (+ (*
+         x17 x27) x23)) (* (/ (* (- (+ x28 (* (- x3
+         x3) (* x25 x5))) x16) (/ x1 x2)) (* (/ x15
+         x7) x4)) (* x17 x27)))) (* (/ x3 x28) (*
+         (* (/ x30 (/ x22 x21)) (* (* (+ x27 x15)
+             x4) x4)) (- (- x28 (* x3 x27)) x16))))))
+     x4)))
+
+Best Individual of Run:
+Subpopulation 0:
+Evaluated: true
+Fitness: 0.029411764705882353
+Tree 0:
+ (/ x26 (- (* (* (- x23 pix) (* x8 (* x7 x25)))
+     (* x4 x1)) (+ x28 (/ x3 x28))))

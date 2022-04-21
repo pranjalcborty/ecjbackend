@@ -10,7 +10,7 @@ import java.util.Objects;
 
 public class Main {
 
-    private static final long FIVE_MINUTES = 10000L;
+    private static final long FIVE_MINUTES = 30000L;
 
     public static void main(String[] args) {
         JPAUtil dbUtil = new JPAUtil();

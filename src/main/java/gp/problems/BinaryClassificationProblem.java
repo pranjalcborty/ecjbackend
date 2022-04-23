@@ -106,7 +106,7 @@ public class BinaryClassificationProblem extends CommonProblem {
                 }
             }
 
-            double fitness = 1 / (double) (fp + fn + 1);
+            double fitness = hits / (double) inputX.size();
 
             SimpleFitness f = ((SimpleFitness) ind.fitness);
             f.setFitness(evolutionState, fitness, (hits == inputX.size()));

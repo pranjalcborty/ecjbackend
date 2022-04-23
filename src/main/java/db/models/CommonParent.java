@@ -8,6 +8,7 @@ import java.util.Date;
 @MappedSuperclass
 public abstract class CommonParent {
 
+    @Column(unique = true)
     protected String uuid;
 
     @Lob
